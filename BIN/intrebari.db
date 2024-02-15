@@ -1,0 +1,1840 @@
+   1 Ce constituie defect al unui produs?
+\ 
+/ aspect estetic necorespunzator
+/*orice abatere de la prescriptiile scrise
+/ folosirea muncitorilor insuficienti calificati
+   2 Fisura reprezinta o discontinuitate:
+\ 
+/ unidimensionala
+/*bidimensionala
+/ tridimensionala
+   3 Golul reprezinta o discontinuitate:
+\ 
+/ unidimensionala
+/ bidimensionala
+/*tridimensionala
+   4 Incluziunile sunt defecte:
+\ 
+/ exterioare
+/ pe suprafata
+/*interioare
+   5 Suflurile sunt, de regula, defecte:
+\ 
+/ exterioare
+/ pe suprafata
+/*interioare
+   6 Cratuirea inseamna:
+\ 
+/ curatarea suprafetei vopsite
+/*indepartarea defectului pentru remediere
+/ polizarea suprafetei sudurii
+   7 Care defect nu este admisibil?
+\ 
+/ suflura
+/ incluziunea
+/*fisura
+   8 Care defect nu este admisibil?
+\ 
+/ porul
+/ incluziunea
+/*nepatrunderea
+   9 Care este imaginea unei fisuri?
+\ 
+/ linie dreapta cu grosime uniforma
+/*linie cu grosime variabila
+/ pata alungita
+  10 Care este imaginea unei nepatrunderi?
+\ 
+/*linie dreapta cu grosime uniforma
+/ linie cu grosime variabila
+/ pata alungita
+  11 Care este imaginea unui sufluri?
+\ 
+/ linie cu grosime uniforma
+/ pata cu contur neregulat
+/*pata rotunda sau alungita
+  12 Care este imaginea unei incluziuni?
+\ 
+/ linie cu grosime uniforma
+/*pata cu contur neregulat
+/ pata rotunda sau alungita
+  13 Care din imagini reprezinta o suprapunere?
+\ 
+\ imagini\0101a.bmp
+\*imagini\0101b.bmp
+\ imagini\0101c.bmp
+  14 Care din imagini reprezinta o lipsa de topire?
+\ 
+\ imagini\0101a.bmp
+\ imagini\0101b.bmp
+\*imagini\0101c.bmp
+  15 Care din imagini reprezinta o nepatrundere?
+\ 
+\*imagini\0101a.bmp
+\ imagini\0101b.bmp
+\ imagini\0101c.bmp
+  16 Ce reprezinta controlul stiloscopic?
+\ 
+/ inscriptionarea produsului cu un stilou special
+/ verificarea culorii vopselei cu stilouri speciale
+/*analiza chimica locala
+  17 Prin control stiloscopic se intelege:
+\ 
+/ inscriptionarea corecta a marcii de produs
+/ scrierea corecta a culorii vopselei
+/*determinara unui anumit element de aliere
+  18 Cu ajutorul endoscopului determinam:
+\ 
+/ prezenta incluziunilor
+/ numarul straturilor din sudura
+/*defecte din spatii interioare
+  19 Aparatele pentru masurarea unilaterala a grosimii peretilor folosesc:
+\ 
+/ campul magnetic
+/*ultrasunetele
+/ radiatiile X
+  20 Piesele apendice (de capat) se folosesc la:
+\ 
+/*obtinerea probelor pentru laboratorul de control
+/ stabilirea clasei de calitate a constructiei metalice
+/ compararea defectelor reale depistate
+  21 Emisia acustica determina:
+\ 
+/ neetanseitatea rezervoarelor
+/*zonele critice, aproape de curgere, a constructiilor
+/ compararea defectelor, prin reflexia sunetului
+  22 Prin analiza microscopica se determina:
+\ 
+/ prezenta incluziunilor
+/*structura materialului
+/ prezenta suflurilor
+  23 Prin analiza macroscopica se determina:
+\ 
+/*numarul straturilor din sudura
+/ prezenta suflurilor
+/ prezenta incluziunilor
+  24 Prin analiza macroscopica se determina:
+\ 
+/ prezenta incluziunilor
+/*prezenta nepatrunderii
+/ prezenta fisurilor
+  25 Creioanele termochrom servesc pentru:
+\ 
+/ scriere pe table fierbinti
+/ masurarea temperaturilor tablelor
+/*verificarea preincalzirii tablelor
+  26 Verificam temperatura de preincalzire cu un creion termochrom de 250°C. Daca tabla are 275°C se modifica culoarea amprentei in zona:
+\ imagini\0102.bmp
+/*A
+/ B
+/ C
+  27 Verificam temperatura de preincalzire cu un creion termochrom de 250°C. Daca tabla are 225°C se modifica culoarea amprentei in zona:
+\ imagini\0102.bmp
+/ A
+/ B
+/*nu se modifica
+  28 Cu cate creioane termochrom verificam temperatura de preincalzire?
+\ 
+/ unul
+/*doua
+/ trei
+  29 Verificam cu ajutorul creioanelor termochrom corectitudinea preincalzirii tablelor in domeniul T1..T2. Amprenta T1 schimba culoarea, iar T2 nu. Temperatura este:
+\ 
+/ <T1
+/*T1..T2
+/ >T2
+  30 Verificam cu ajutorul creioanelor termochrom corectitudinea preincalzirii tablelor in domeniul T1..T2. Amprentele T1 si T2 isi schimba culoarea. Temperatura este:
+\ 
+/ <T1
+/ T1..T2
+/*>T2
+  31 Verificam cu ajutorul creioanelor termochrom corectitudinea preincalzirii tablelor in domeniul T1..T2. Amprentele T1 si T2 nu isi schimba culoarea. Temperatura este:
+\ 
+/*<T1
+/ T1..T2
+/ >T2
+  32 Controlul cu petrol lampant se aplica pentru verificarea etanseitatii:
+\ 
+/ butoaielor metalice pentru produse petroliere
+/ rezervoarelor auto de combustibil
+/*carcaselor de reductor
+  33 Receptia definitiva a etanseitatii produselor controlate cu petrol lampant se face dupa:
+\ 
+/ 8 secunde
+/ 8 minute
+/*8 ore
+  34 Metoda luminiscenta de control (capcana chimica) foloseste pentru indicarea defectului:
+\ 
+/*pulbere de oxid de magneziu
+/ pudra de talc
+/ vopsea alba pe baza de zinc
+  35 Metoda luminiscenta de control (capcana chimica) foloseste pentru indicarea defectului:
+\ 
+/ radiatii gama
+/ radiatii Röntgen
+/*radiatii ultraviolete
+  36 Pentru controlul cu lichide penetrante suprafata piesei de controlat trebuie:
+\ 
+/ data cu ulei sau vaselina
+/*curatita de grasimi
+/ vopsita in alb
+  37 Penetrantul colorat solubil in apa este notat astfel:
+\ 
+/ PF-1
+/ PC-3
+/*PC-1
+  38 Penetrantul fluorescent este de culoare:
+\ 
+/ rosie
+/ galben verzuie
+/*incolor
+  39 Penetrantul are ca substanta de baza:
+\ 
+/ benzenul
+/ benzina
+/*petrolul
+  40 Penetrantul fluorescent are in compozitie:
+\ 
+/ benzenul
+/ oxidul de zinc
+/*ulei mineral
+  41 Developantul are ca substanta de baza:
+\ 
+/*praf de talc
+/ pulbere de oxid de magneziu
+/ vopsea alba
+  42 Developantul folosit la penetrantii fluorescenti are culoarea:
+\ 
+/*alba
+/ neagra
+/ violet inchis
+  43 La controlul cu lichide penetrante a unor aliaje de aluminiu curatarea suprafetei se face:
+\ 
+/ cu peria de sarma
+/ cu smirghel
+/*chimic
+  44 La controlul cu lichide penetrante pentru pregatirea suprafetelor se recomanda:
+\ 
+/ vopsirea
+/*degresarea
+/ polizarea
+  45 La controlul cu lichide penetrante timpul de penetrare gresit este de:
+\ 
+/*sub 15 minute
+/ de 15 minute
+/ peste 15 minute
+  46 Timpul de developare la controlul cu lichide penetrante:
+\ 
+/ este mai mic ca timpul de penetrare
+/*este egal cu timpul de penetrare
+/ este mai mare decat timpul de penetrare
+  47 Timpul maxim de developare la controlul cu lichide penetrante este de:
+\ 
+/ 15 secunde
+/ 1,5 minute
+/*15 minute
+  48 Piesele de proba de la controlul cu lichide penetrante imita defectele:
+\ 
+/*fisuri
+/ sufluri
+/ incluziuni
+  49 La controlul cu lichide penetrante depistam:
+\ 
+/*fisuri deschise la suprafata
+/ incluziuni
+/ sufluri interioare
+  50 La controlul cu lichide penetrante depistam:
+\ 
+/*pori de suprafata
+/ fisuri interioare
+/ incluziuni de zgura
+  51 La controlul cu lichide penetrante latimea minima a fisurii depistate este de:
+\ 
+/*0,05 milimetri
+/ 0,50 milimetri
+/ 1,50 milimetri
+  52 Controlul cu lichide penetrante poate depista defecte in piese de material:
+\ 
+/ feromagnetic
+/ diamagnetic
+/*orice material
+  53 Controlul magnetic poate depista defecte in piese din material:
+\ 
+/*feromagnetic
+/ diamagnetic
+/ orice metal
+  54 Controlul magnetic poate depista defecte in piese din:
+\ 
+/ nichel
+/ otel inoxidabil austenitic
+/*otel carbon
+  55 Controlul magnetic poate depista defecte in piese din materiale care:
+\ 
+/*atrag magnetul
+/ resping magnetul
+/ nu atrag si nu resping magnetul
+  56 Aerul are permeabilitate magnetica relativa:
+\ 
+/*1
+/ 100
+/ 1000
+  57 Otelul carbon are permeabilitatea magnetica relativa:
+\ 
+/ 1
+/ 100
+/*1000
+  58 Aluminiul are permabilitatea magnetica relativa:
+\ 
+/*1
+/ 100
+/ 1000
+  59 Principiul de baza al controlului magnetic il constituie:
+\ 
+/*ocolirea defectului de catre liniile de camp magnetic
+/ patrunderea campului magnetic in defecte
+/ patrunderea pulberii magnetice in defecte
+  60 Imaginea  defectului la controlul magnetic este mai vizibila daca defectul este:
+\ 
+/ in lungul liniilor de camp
+/ inclinat fata de liniile de camp
+/*perpendicular pe liniile de camp
+  61 Imaginea defectului la controlul magnetic este mai vizibila daca defectul este:
+\ 
+/ volumic, cu margini netede
+/ volumic, cu margini neregulate
+/*plan
+  62 Imaginea defectului la controlul magnetic este mai vizibila daca campul magnetic este:
+\ 
+/ continuu
+/ alternativ
+/*mai intens
+  63 Imaginea defectului interior la controlul magnetic este mai vizibila daca campul magnetic este produs de:
+\ 
+/*curentul continuu
+/ curentul alternativ
+/ impulsuri de curent
+  64 Magnetizarea remanenta se observa la:
+\ 
+/ otelul crom-nichel
+/*otelul cu procentaj de carbon ridicat
+/ otelul cu procentaj de carbon scazut
+  65 Evitarea magnetizarii remanente este posibila printr-o intrerupere a curentului:
+\ 
+/ lina, in panta usor descrescatoare
+/ brusca
+/*oscilatorie armonizata
+  66 Magnetizarea liniara (polara) este produsa de:
+\ 
+/ fire sau tije conductoare
+/*jugurile magnetice
+/ injectia de curent
+  67 Magnetizarea liniara (polara) este produsa de:
+\ 
+/ fire sau tije conductoare
+/*bobine
+/ injectia de curent
+  68 Magnetizarea circulara este produsa de:
+\ 
+/ fire sau tije conductoare
+/ jugurile magnetice
+/*bobine
+  69 Magnetizarea circulara este produsa de:
+\ 
+/*bobine
+/ jugurile magnetice
+/ injectia de curent
+  70 La magnetizarea cu jugul electromagnetic simplu controlul se face:
+\ 
+/ o data
+/*de doua ori
+/ de trei ori
+  71 La magnetizarea mixta controlul se face:
+\ 
+/*o data
+/ de doua ori
+/ de trei ori
+  72 La magnetizarea mixta, cu doua circuite de magnetizare, se obtine un singur camp magnetic daca folosesc:
+\ 
+/*o singura sursa de curent
+/ o sursa de curent alternativ si una de curent continuu
+/ alternante redresate si separate pe fiecare circuit
+  73 La magnetizarea mixta, cu doua circuite de magnetizare, se obtine un singur camp magnetic care matura intreaga sectiune daca se foloseste:
+\ 
+/ o singura sursa de curent
+/*o sursa de curent alternativ si una de curent continuu
+/ alternante redresate si separate pe fiecare circuit
+  74 La magnetizarea mixta, cu doua circuite de magnetizare, se obtin doua campuri magnetice succesive daca sunt folosite:
+\ 
+/ o singura sursa de curent
+/ o sursa de curent alternativ si una de curent continuu
+/*alternante redresate si separate pe fiecare circuit
+  75 Conditia minima de magnetizare pentru electromagnetii de curent continuu este de a ridica o greutate de 18 kg din:
+\ 
+/ plumb
+/*otel cu procentaj redus de carbon
+/ otel cu procentaj ridicat de carbon
+  76 Pentru a indeplini conditia minima de magnetizare un jug electromagnetic de curent alternativ trebuie sa ridice fata de un jug electromagnetic de curent continuu o greutate:
+\ 
+/*mai mica
+/ mai mare
+/ egala
+  77 Deplasarea longitudinala  succesiva a jugului in timpul controlului se face aproximativ pe distanta de:
+\ 
+/*100 milimentri
+/ 250 milimetri
+/ 500 milimetri
+  78 La controlul cu jugul electromagnetic se depisteaza defecte logitudinale daca jugul este pozitionat ca in figura...
+\ 
+\*imagini\0501a.bmp
+\ imagini\0501b.bmp
+\ imagini\0501c.bmp
+  79 In timpul controlului magnetic din figura depistam defecte transversale la:
+\ 
+\ imagini\0501a.bmp
+\*imagini\0501b.bmp
+\ imagini\0501c.bmp
+  80 In care din figuri este reprezentata pozitia corecta a jugului:
+\ 
+\ imagini\0502a.bmp
+\*imagini\0502b.bmp
+\ imagini\0502c.bmp
+  81 In care din figuri avem o intensitate minima a campului magnetic:
+\ 
+\ imagini\0502a.bmp
+\ imagini\0502b.bmp
+\*imagini\0502c.bmp
+  82 In timpul controlului magnetic, jugul se aseaza:
+\ 
+/*pe sudura
+/ langa sudura
+/ oricum
+  83 Jugul nu se aseaza direct pe supra-inaltarea sudurii deoarece:
+\ 
+/ se uzeaza piciorul jugului
+/*se micsoreaza intensitatea campului
+/ apare defectul "arsura"
+  84 Jugul din figura poate controla imbinari sudate:
+\ imagini\0504.bmp
+/*cap la cap
+/ prin suprapunere
+/ de colt
+  85 Jugul din figura poate controla imbinari sudate:
+\ imagini\0505.bmp
+/ numai cap la cap
+/ numai prin suprapunere
+/*de orice tip
+  86 Jugul din figura poate controla imbinari sudate:
+\ imagini\0506.bmp
+/ numai cap la cap
+/ numai de colt
+/*de orice tip
+  87 Jugul din figura poate controla imbinari sudate:
+\ imagini\0507.bmp
+/ numai cap la cap
+/ numai de colt
+/*de orice tip
+  88 Jugul din figura are:
+\ imagini\0508.bmp
+/ un circuit de magnetizare
+/*doua circuite de magnetizare
+/ mai multe circuite de magnetizare
+  89 Jugul din figura depisteaza:
+\ imagini\0508.bmp
+/ defecte longitudinale
+/ defecte transversale
+/*defecte pe orice directie
+  90 Jugul din figura este:
+\ imagini\0509.bmp
+/ jug simplu
+/*jug mobil
+/ jug dublu
+  91 Jugul din figura este:
+\ imagini\0510.bmp
+/ jug simplu
+/*jug rotativ
+/ jug dublu
+  92 La magnetizarea cu bobine campul magnetic este:
+\ 
+/*liniar
+/ circular
+/ mixt
+  93 Bobina din figura depisteaza defecte:
+\ imagini\0511.bmp
+/ longitudinale
+/*transversale
+/ inclinate la 45°
+  94 Bobina din figura este alimentata cu un curent de ordinul de marime:
+\ imagini\0512.bmp
+/ amperilor
+/ zecilor de amperi
+/*sutelor de amperi
+  95 Care este directia defectelor depistate in sudura din figura alaturata:
+\ imagini\0512.bmp
+/*longitudinale
+/ transversale
+/ inclinate la 45°
+  96 Care este directia defectelor depistate in sudura din figura alaturata:
+\ imagini\0513.bmp
+/*longitudinala
+/ transversala
+/ inclinata la 45°
+  97 Este posibil controlul sudurii de la ramificatiei din figura:
+\ imagini\0514.bmp
+/*da
+/ nu
+/ da, daca lipim bobina de sudura
+  98 Care este directia defectelor depistate in sudura din figura alaturala:
+\ imagini\0514.bmp
+/*longitudinala
+/ transversala
+/ inclinata la 45°
+  99 Care dintre bobinele din figura se poate monta pe directie radiala:
+\ 
+\ imagini\0515a.bmp
+\ imagini\0515b.bmp
+\*imagini\0515c.bmp
+ 100 Care din bobinele din figura se poate monta pe directie radiala:
+\ 
+/*imagini\0516a.bmp
+/ imagini\0516a.bmp
+/ imagini\0516a.bmp
+ 101 Care din bobinele din figura se poate monta numai pe directie longitudinala:
+\ 
+\*imagini\0517a.bmp
+\ imagini\0517b.bmp
+\ imagini\0517c.bmp
+ 102 La magnetizarea cu tija conductoare campul magnetic este:
+\ 
+/ liniar
+/*circular
+/ mixt
+ 103 Controlul magnetic cu tija conductoare din figura depisteaza defecte:
+\ imagini\0518.bmp
+/*longitudinale
+/ transversale
+/ inclinate la 45°
+ 104 Curentul de magnetizare necesar controlului din figura este de ordinul:
+\ imagini\0518.bmp
+/*sutelor de amperi
+/ zecilor de amperi
+/ amperilor
+ 105 Controlul magnetic cu tija conductoare poate fi aplicat pentru depistarea defectelor din piese:
+\ 
+/ tubulare (bucse)
+/ plane (placi)
+/*de orice tip
+ 106 In figura alaturata controlul magnetic se face cu:
+\ imagini\0519.bmp
+/ bobina
+/*conductor
+/ injectie de curent
+ 107 Care este directia defectelor depistate in sudura din figura alaturata:
+\ imagini\0520.bmp
+/*longitudinala
+/ transversala
+/ inclinata la 45°
+ 108 Curentul necesar controlului magnetic al sudurii trebuie sa fie mai mare la controlul sudurii - pozitia a, sau la controlul bucsei - pozitia c?
+\ 
+\ imagini\0521a.bmp
+/ curentul necesar verificarii celor doua piese poate fi egal
+\*imagini/0521c.bmp
+ 109 Care este directia defectelor depistate la controlul magnetic cu injectie de curent din figura alaturata:
+\ imagini\0522.bmp
+/*longitudinale
+/ transversale
+/ inclinate la 45°
+ 110 La controlul magnetic cu injectie de curent din figura alaturata campul magnetic este:
+\ imagini\0522.bmp
+/ liniar
+/*circular
+/ mixt
+ 111 Controlul magnetic cu injectie de curent se poate aplica la piese:
+\ 
+/ plane
+/ cilindrice sau tubulare
+/*de orice fel
+ 112 Amplasand electrozii de contact ca in figura alaturata depistam defecte longitudinale in pozitia a, b sau c?
+\ 
+\ imagini\0523a.bmp
+\*imagini\0523b.bmp
+\ imagini\0523c.bmp
+ 113 Amplasand electrozii de contact ca in figura alaturata, depistam defecte transversale in pozitia a, b, sau c?
+\ 
+\*imagini\0523a.bmp
+\ imagini\0523b.bmp
+\ imagini\0523c.bmp
+ 114 In figura alaturata avem:
+\ imagini\0524.bmp
+/ jug magnetic simplu
+/*electrozi pentru injectie cu curent
+/ tije conductoare
+ 115 Care este directia defectelor depistate in sudura din figura alaturata:
+\ imagini\0525.bmp
+/*longitudinala
+/ transversala
+/ inclinata la 45°
+ 116 La controlul magnetic apare pe suprafata pieselor defectul "arsura" daca folosim:
+\ 
+/ jugul magnetic
+/ tije conductoare
+/*injectie de curent
+ 117 In figura alaturata folosim pentru control un jug magnetic in pozitia a, b sau c?
+\ 
+\*imagini\0526a.bmp
+\ imagini\0526b.bmp
+\ imagini\0526c.bmp
+ 118 In figura alaturata folosim pentru control o tija conductoare la pozitia a, b sau c?
+\ 
+\ imagini\0526a.bmp
+\*imagini\0526b.bmp
+\ imagini\0526c.bmp
+ 119 In figura alaturata folosim pentru control injectia de curent in pozitia a, b sau c?
+\ 
+\ imagini\0526a.bmp
+\ imagini\0526b.bmp
+\*imagini\0526c.bmp
+ 120 In figura alaturata folosim pentru controlul magnetic:
+\ imagini\0527.bmp
+/ injectia de flux
+/*inductia de curent
+/ injectia de curent
+ 121 In figura alaturata defectele care pot fi depistate in piesa magnetizata au directie:
+\ imagini\0527.bmp
+/ longitudinala
+/ transversala
+/*inclinata la 45°
+ 122 Directia campului magnetic este aratata de:
+\ 
+/ corpurile de proba
+/ piesele de proba
+/*indicatorii de flux
+ 123 Dispozitivul din figura este:
+\ imagini\0528.bmp
+/ corp de proba
+/ piesa de proba
+/*indicator de flux
+ 124 In figura alaturata avem imaginea prezentata in timpul controlului de catre un indicator de flux magnetic. Directia campului magnetic este:
+\ imagini\0529.bmp
+/ orizontala
+/*verticala
+/ inclinata la 45°
+ 125 In figura alaturata avem imaginea prezentata in timpul controlului de catre un indicator de flux magnetic. Directia campului magnetic este:
+\ imagini\0530.bmp
+/*orizontala
+/ verticala
+/ inclinata la 45°
+ 126 Cati indicatori de flux tip A1 folosim in timpul controlului magnetic?
+\ imagini\0531.bmp
+/*unul
+/ doi
+/ trei
+ 127 Cati indicatori de flux tip B2 folosim in timpul in timpul controlului magnetic?
+\ imagini\0532.bmp
+/ unul
+/*doi
+/ trei
+ 128 Corpul de proba din figura alaturata serveste la verificarea magnetizarii cu:
+\ imagini\0533.bmp
+/ injectie de flux
+/ injectie de curent
+/*tija conductoare
+ 129 Corpul de proba din figura alaturata serveste la verificarea magnetizarii cu:
+\ imagini\0534.bmp
+/ injectie de flux
+/*injectie de curent
+/ tija conductoare
+ 130 Corpul de proba de la controlul magnetic imita defecte de tipul:
+\ 
+/ suflura
+/ incluziune
+/*nepatrundere
+ 131 Aparatul din figura alaturata serveste la controlul magnetic cu:
+\ imagini\0535.bmp
+/ injectie de flux
+/*injectie de curent
+/ inductie de curent
+ 132 La controlul cu pulberi magnetice pe suprafete verticale putem folosi pulbere magnetica:
+\ 
+/ uscata
+/*umeda
+/ ambele tipuri
+ 133 Pregatirea suprafetei in vederea controlului cu pulbere magnetica consta in:
+\ 
+/ polizarea suprainaltarii sudurii
+/ curatarea stratului de vopsa
+/*degresarea
+ 134 La pregatirea suprafetei in vederea controlului magnetic se recomanda:
+\ 
+/*vopsirea in alb
+/ vopsirea in negru
+/ curatarea vopselei
+ 135 Vopsirea suprafetei controlate este recomandata la controlul:
+\ 
+/ cu lichide penetrante
+/*cu pulberi magnetice
+/ cu ultrasunete
+ 136 La controlul cu pulberi magnetice curatarea suprafetei se poate face:
+\ 
+/ chimic
+/ mecanic
+/*oricum
+ 137 La controlul cu pulberi magnetice depistam defecte:
+\ 
+/ volumice cu pereti netezi
+/ volumice cu pereti neregulati
+/*plane cu pereti neregulati
+ 138 La controlul cu pulberi magnetice depistam defecte:
+\ 
+/ deschise la suprafata
+/ interioare, sub suprafata
+/*de ambele tipuri
+ 139 Care este latimea unei nepatrunderi care deranjeaza cel mai mult liniile de camp magnetic?
+\ 
+/*de ordinul zecimilor de milimetru
+/ de ordinul milimetrilor
+/ de ordinul zecilor de milimetri
+ 140 In figura alaturata este reprezentata schema de principiu a controlului:
+\ imagini\0536.bmp
+/ cu pulberi magnetice
+/*magnetografic
+/ prin inductie
+ 141 In figura alaturata avem un jug:
+\ imagini\0537.bmp
+/ magnetic
+/*electromagnetic rotativ
+/ electromagnetic simplu
+ 142 Cine este capul de imprimare din figura alaturata?
+\ imagini\0537.bmp
+/*pozitia 3
+/ pozitia 7
+/ pozitia 8
+ 143 Cine este capul de stergere din figura alaturata?
+\ imagini\0537.bmp
+/ pozitia 3
+/ pozitia 7
+/*pozitia 8
+ 144 Cine este capul de citire din figura alaturata?
+\ imagini\0537.bmp
+/ pozitia 3
+/*pozitia 7
+/ pozitia 8
+ 145 In figura alaturat este prezentata schema de principiu a controlului:
+\ imagini\0538.bmp
+/ cu pulberi magnetice
+/*prin inductie
+/ magnetografic
+ 146 La baza controlului ultrasonic sta:
+\ 
+/ atenuarea undelor
+/ refractia undelor
+/*reflexia undelor
+ 147 Reflexia ideala este data de o suprafata de separatie:
+\ 
+/*aer-metal
+/ apa-metal
+/ ulei-metal
+ 148 Cuplantul acustic aplicat pe suprafata pieselor de controlat ultrasonic produce:
+\ 
+/ reflexia undelor
+/*refractia undelor
+/ ateanuarea undelor
+ 149 Pe o suprafata neteda (laminata la rece) folosim drept cuplant:
+\ 
+/*apa
+/ ulei mineral
+/ vaselina minerala
+ 150 Pe o suprafata prelucrata prin aschiere folosim drept cuplant:
+\ 
+/ apa
+/*ulei mineral
+/ vaselina tehnica
+ 151 Pe o suprafata bruta (laminata la cald) folosim drept cuplant:
+\ 
+/ apa
+/ ulei mineral
+/*vaselina tehnica
+ 152 Fenomenul de transformare a undelor US (ultrasunete) longitudinale in unde transversale are loc incidenta:
+\ 
+/ normala
+/*oblica
+/ in ambele situatii
+ 153 Pentru unda incidenta din figura avem unghiul oblic:
+\ imagini\0601.bmp
+/ primul
+/*al doilea
+/ al treilea
+ 154 Pentru unda incidenta din figura avem unghiul critic:
+\ imagini\0602.bmp
+/*primul
+/ al doilea
+/ al treilea
+ 155 La care pozitie din figura alaturata avem un palpator normal?
+\ 
+\*imagini\0603a.bmp
+\ imagini\0603b.bmp
+\ imagini\0603c.bmp
+ 156 La care pozitie din figura alaturata avem un palpator inclinat?
+\ 
+\ imagini\0603a.bmp
+\ imagini\0603b.bmp
+\*imagini\0603c.bmp
+ 157 La care pozitie din figura alaturata avem un palpator dublu cristal?
+\ 
+\ imagini\0603a.bmp
+\*imagini\0603b.bmp
+\ imagini\0603c.bmp
+ 158 In figura alaturata este schitat un palpator normal. La care pozitie se gaseste placuta oscilatoare?
+\ imagini\0604.bmp
+/ pozitia 4
+/*pozitia 5
+/ pozitia 6
+ 159 In figura alaturata este schitat un palpator normal. La care din pozitiise gaseste corpul de amortizare?
+\ imagini\0604.bmp
+/*pozitia 4
+/ pozitia 5
+/ pozitia 6
+ 160 In figura alaturata este schitat un palpator inclinat. La care pozitie se gaseste placuta oscilatoare?
+\ imagini\0605.bmp
+/ pozitia 4
+/*pozitia 5
+/ pozitia 6
+ 161 In figura alaturata este schitat un palpator inclinat. La care pozitie se gaseste corpul de amortizare?
+\ imagini\0605.bmp
+/*pozitia 4
+/ pozitia 5
+/ pozitia 6
+ 162 In figura alaturata este schitat un palpator inclinat. La care pozitie se gaseste capcana?
+\ imagini\0605.bmp
+/ pozitia 5
+/ pozitia 6
+/*pozitia 7
+ 163 La care pozitie avem un palpator normal?
+\ 
+\*imagini\0606a.bmp
+\ imagini\0606b.bmp
+\ imagini\0606c.bmp
+ 164 La care pozitie avem un palpator inclinat?
+\ 
+\ imagini\0606a.bmp
+\*imagini\0606b.bmp
+\ imagini\0606c.bmp
+ 165 La care pozitie avem un palpator dublu cristal?
+\ 
+\ imagini\0606a.bmp
+\ imagini\0606b.bmp
+\*imagini\0606c.bmp
+ 166 In figura alaturata se prezinta sonograma unui palpator folosit la controlul ultrasonic. Zona in care nu putem depista defecte este de:
+\ imagini\0607.bmp
+/*20 milimetri
+/ 30 milimetri
+/ 40 milimetri
+ 167 In figura alaturata se prezinta sonograma unui palpator folosit la controlul ultrasonic. Zona notata cu ZM reprezinta o caracteristica a palpatorului denumita:
+\ imagini\0607.bmp
+/ zona mica
+/ zona mare
+/*zona moarta
+ 168 In figura alaturata se prezinta sonograma unui palpator folosit la controlul ultrasonic. Palpatorul depisteaza defecte mai:
+\ imagini\0607.bmp
+/ mici de 2 milimetri
+/*mari de 2 milimetri
+/ mari de 4 milimetri
+ 169 In figura alaturata se prezinta sonograma unui palpator folosit la controlul ultrasonic. Cifrele reprezinta:
+\ imagini\0607.bmp
+/*dimensiunea manima a defectelor ce pot fi depistate
+/ indici de refractie
+/ dimensiunea maxima a defectelor ce pot fi depistate
+ 170 Folosim undele transversale in timpul controlului ultrasonic cu palpator:
+\ 
+/ dublu cristal
+/*inclinat
+/ normal
+ 171 Folosim undele de suprafata in timpul controlului ultrasonic cu palpator:
+\ 
+/ dublu cristal
+/*inclinat
+/ normal
+ 172 In timpul controlului ultrasonic cu palpator normal lucram cu unde:
+\ 
+/ transversale
+/*longitudinale
+/ de suprafata
+ 173 La baza controlului ultrasonic dupa schema din figura alaturata sta:
+\ imagini\0608.bmp
+/ reflexia ultrasunetelor
+/*transmisia ultrasunetelor
+/ atenuarea ultrasunetelor
+ 174 Semnalul ce apare pe ecranul tubului catodic din figura alaturata se numeste semnal:
+\ imagini\0608.bmp
+/ de emisie
+/*de receptie
+/ de defect
+ 175 Spotul luminos orizontal ce apare pe ecranul tubului catodic din figura alaturata este produs de blocul:
+\ imagini\0608.bmp
+/ generator de inalta frecventa
+/*baleiaj
+/ amplificator
+ 176 Semnalul ce apare pe ecranul tubului catodic din figura alaturata este produs de blocul:
+\ imagini\0608.bmp
+/ generator de inalta frecventa
+/ baleiaj
+/*amplificator
+ 177 Folosim doua palpatoare in timpul controlului ultrasonic efectuat prin:
+\ 
+/ reflexia ultrasunetelor
+/*transmisia ultrasunetelor
+/ atenuarea ultrasunetelor
+ 178 In timpul controlului prin transmiterea impulsului ultrasonic semnalul de pe ecran se micsoreaza si dispare ladefecte:
+\ 
+/ mici
+/ mijlocii
+/*mari
+ 179 Folosim un singur palpator in timpul controlului ultrasonic efectuat prin:
+\ 
+/*reflexia ultrasunetelor
+/ transmisia ultrasunetelor
+/ atenuarea ultrasunetelor
+ 180 La baza controlului ultrasonic dupa schema din figura alaturata sta:
+\ imagini\0609.bmp
+/*reflexia ultrasunetelor
+/ transmisia ultrasunetelor
+/ atenuarea ultrasunetelor
+ 181 Semnalul Nr. 1 ce apare pe ecranul tubului catodic din figura alaturata se numeste semnal:
+\ imagini\0609.bmp
+/*de emisie
+/ de receptie
+/ de defect
+ 182 Semnalul Nr. 3 ce apare pe ecranul tubului catodic din figura alaturata se numeste semnal:
+\ imagini\0609.bmp
+/ de emisie
+/ de receptie
+/*de defect
+ 183 Semnalul Nr. 2 ce apare pe ecranul tubului catodic din figura alaturata se numeste semnal:
+\ imagini\0609.bmp
+/ de emisie
+/ de receptie
+/*de fund
+ 184 In timpul controlului prin reflexia impulsului ultrasonic semnalul de defect de pe ecran se micsoreaza si dispare la defecte:
+\ 
+/*mici
+/ mijlocii
+/ mari
+ 185 In timpul controlului prin reflexia impulsului ultrasonic semnalul de fund de pe ecran se micsoreaza si dispare la defecte:
+\ 
+/ mici
+/ mijlocii
+/*mari
+ 186 Semnalul de pe ecran din figura este obtinut in pozitia:
+\ imagini\0610.bmp
+/ pozitia 1
+/*pozitia 2
+/ pozitia 3
+ 187 Semnalul de pe ecran din figura alaturata este obtinut cu palpatorul in pozitia:
+\ imagini\0611.bmp
+/ pozitia 1
+/*pozitia 2
+/ pozitia 3
+ 188 Indexul palpatorului reprezinta:
+\ 
+/ numarul de identificare al palpatorului
+/*locul de iesire al ultrasunetelor
+/ frecventa de lucru, in MHz (megaherthzi)
+ 189 Zona moarta a palpatorului care da imaginea din figura alaturata este:
+\ imagini\0612.bmp
+/ mai mic de 5 milimetri
+/*mai mic de 10 milimetri
+/ mai mare de 10 milimetri
+ 190 In figurile alaturate stabilirea indexului palpatorului se face la pozitia:
+\ 
+\ imagini\0613a.bmp
+\ imagini\0613b.bmp
+\*imagini\0613c.bmp
+ 191 In figurile alaturate stabilirea unghiului de patrundere a palpatorului se face la pozitia:
+\ 
+\*imagini\0613a.bmp
+\ imagini\0613b.bmp
+\ imagini\0613c.bmp
+ 192 In figurile alaturate reglarea scarii de masura a distantelor cu palpator inclinat se face la pozitia:
+\ 
+\ imagini\0613a.bmp
+\ imagini\0613b.bmp
+\*imagini\0613c.bmp
+ 193 Reglarea punctului de zero consta in aducerea in dreptul gradatiei zero de pe ecran:
+\ 
+/ a flancului drept al semnalului de emisie
+/ a flancului stang al semnalului de defect
+/*a flancului stang al semnalului de emisie
+ 194 In figurile alaturate reglarea corecta a punctului de zero este facuta la pozitia:
+\ 
+\ imagini\0614a.bmp
+\*imagini\0614b.bmp
+\ imagini\0614c.bmp
+ 195 Etalonarea scarii de masura a distantelor a defectoscopului ultrasonic consta in deplasarea corespunzator grosimii etalonului a:
+\ 
+/*ecoului de fund
+/ ecoului de defect
+/ semnalului de emisie
+ 196 In figurile alaturate reglarea corecta a scarii de masura a distantelor este la pozitia:
+\ 
+\*imagini\0615a.bmp
+\ imagini\0615b.bmp
+\ imagini\0615c.bmp
+ 197 Imaginea de pe ecran este obtinuta cu palpatorul normal asezat pe blocul de etalonare in pozitia:
+\ imagini\0616a.bmp
+/*pozitia 1
+/ pozitia 3 
+/ pozitia 4
+ 198 Imaginea de pe ecran este obtinuta cu palpatorul normal asezat pe blocul de etalonare in pozitia:
+\ imagini\0616b.bmp
+/ pozitia 1
+/*pozitia 3 
+/ pozitia 4
+ 199 Imaginea de pe ecarn este obtinuta cu palpatorul normal asezat pe blocul de etalonare in pozitia:
+\ imagini\0616c.bmp
+/ pozitia 1
+/ pozitia 3 
+/*pozitia 4
+ 200 Ecourile secundare si tertiare apar in cazul reflexiei ultrasunetelor:
+\ 
+/ pe suprafata defectului
+/ pe suprafata opusa a piesei
+/*pe suprafata laterala a piesei
+ 201 In figura alaturata avem ecouri date de suprafetele laterale a piesei controlate la pozitia:
+\ 
+\ imagini\0617a.bmp
+\ imagini\0617b.bmp
+\*imagini\0617c.bmp
+ 202 In figura alaturata avem ecouri repetate de suprafata opusa a piesei controlate la pozitia:
+\ 
+\*imagini\0617a.bmp
+\ imagini\0617b.bmp
+\ imagini\0617c.bmp
+ 203 In figura avem ecou dat de un defect al piesei controlate la pozitia:
+\ 
+\ imagini\0617a.bmp
+\*imagini\0617b.bmp
+\ imagini\0617c.bmp
+ 204 In figurile alaturate aplicarea palpatorului inclinat pe blocul de etalonare este gresita in pozitia:
+\ 
+\ imagini\0618a.bmp
+\*imagini\0618b.bmp
+\ imagini\0618c.bmp
+ 205 Facem etalonarea cu palpator inclinat pe blocul A1 ca in figura alaturata. Care imagine a ecranului este gresita?
+\ imagini\0619.bmp
+\*imagini\0619a.bmp
+\ imagini\0619b.bmp
+\ imagini\0619c.bmp
+ 206 Facem etalonarea cu palpator inclinat pe blocul A1 ca in figura de sus. Care imagine a ecranului din figura este corecta?
+\ 
+\ imagini\0620a.bmp
+\ imagini\0620b.bmp
+\*imagini\0620c.bmp
+ 207 Palpatorul inclinat din figura alaturata a emis ultrasunete. El receptioneaza ecourile date de defecte dupa:
+\ imagini\0621.bmp
+/*directia a
+/ directia b
+/ directia c
+ 208 Palpatorul normal din figura alaturata a emis ultrasunete. El receptioneaza ecourile date de defecte dupa:
+\ imagini\0622.bmp
+/ directia a
+/*directia b
+/ directia c
+ 209 Palpatorul din figura alaturata emite ultrasunete si se produce o reflexie multipla cu distanta dintre ecouri:
+\ imagini\0623a.bmp
+/ 25 milimetri
+/ 50 milimetri
+/*75 milimetri
+ 210 Palpatorul din figura emite ultrasunete si se produce o reflexie multipla cu distanta dintre ecouri:
+\ imagini\0623b.bmp
+/ 25 milimetri
+/ 50 milimetri
+/*75 milimetri
+ 211 Palpatorul din figura alaturata emite ultrasunete si receptioneaza primul ecou la distanta:
+\ imagini\0623a.bmp
+/*25 milimetri
+/ 50 milimetri
+/ 75 milimetri
+ 212 Palpatorul din figura alaturata emite ultrasunete si receptioneaza primul ecou la distanta:
+\ imagini\0623b.bmp
+/ 25 milimetri
+/*50 milimetri
+/ 75 milimetri
+ 213 Imaginea ce apare pe ecranul din figura alaturata este data de palpatorul asezat in pozitia:
+\ imagini\0624.bmp
+\ imagini\0624a.bmp
+\ imagini\0624b.bmp
+\*imagini\0624c.bmp
+ 214 Imaginea ce apare pe ecranul din figura de alaturi este data de palpatorul din figura alaturata asezat la pozitia:
+\ imagini\0625.bmp
+\ imagini\0624a.bmp
+\*imagini\0624b.bmp
+\ imagini\0624c.bmp
+ 215 Palpatorul din figura receptioneaza primul ecou la distanta:
+\ imagini\0626.bmp
+/*50 milimetri
+/ 100 milimetri
+/ 150 milimetri
+ 216 Palpatorul din figura receptioneaza al doilea ecou la distanta:
+\ imagini\0626.bmp
+/ 50 milimetri
+/ 100 milimetri
+/*150 milimetri
+ 217 Palpatorul din figura alaturata receptioneaza  reflexii multiple cu distanta dintre ecouri:
+\ imagini\0626.bmp
+/ 50 milimetri
+/*100 milimetri
+/ 150 milimetri
+ 218 Reglarea puterii de emisie la controlul ultrasonic prin transmisia ultrasunetelor se face urmarindpe ecran marimea semnalului:
+\ 
+/ de emisie
+/*de receptie
+/ de fund
+ 219 Reglarea puterii de emisie la controlul ultrasonic prin transmisia ultrasunetelor cu palpator normal se face urmarind pe ecran marimea semnalului:
+\ 
+/ de emisie
+/ de receptie
+/*de fund
+ 220 Reglarea puterii de emisie la controlul ultrasonic prin reflexia ultrasunetelor cu palpator inclinat se face urmarind pe ecran marimea semnalului:
+\ 
+/ de emisie
+/ de receptie
+/*de muchie
+ 221 Reglarea puterii de emisie la controlul ultrasonic prin transmisia ultrasunetelor se face urmarind pe ecran marimea semnalului de receptie care trebuie sa fie comparativ cu ecranul:
+\ 
+/ mai mic
+/ mai mare
+/*egal
+ 222 Reglarea puterii de emisie la controlul ultrasonic prin transmisia ultrasunetelor se face urmarind pe ecran marimea semnalului de receptie. Acesta este corect in figura:
+\ 
+\*imagini\0627a.bmp
+\ imagini\0627b.bmp
+\ imagini\0627c.bmp
+ 223 Reglarea puterii de emisie la controlul ultrasonic prin transmisia ultrasunetelor se face urmarind pe ecran marimea semnalului de receptie care trebuie sa fie comparativ cu ecranul:
+\ 
+/ mai mic
+/ mai mare
+/*egal
+ 224 In figura urmatoare zona denivelata a spotului reprezinta diafragma monitorului. In cazul unui ecou de defect in aceasta zona defectoscopul:
+\ imagini\0664.bmp
+/ inregistreaza defectul
+/ amplifica defectul
+/*emite un semnal sonor
+ 225 In cazul folosirii diafragmei monitorului in timpul controlului cu palpator inclinat putem:
+\ 
+/ observa mai bine defectul
+/ stabili tipul defectului
+/*stabili pozitia defectului pe sectiune
+ 226 In figura alaturata sunt prezentate cateva metode de control ultrasonic. Lipseste metoda:
+\ imagini\0628.bmp
+/ prin transmisie cu incidenta oblica
+/ prin transmisie cu incidenta normala
+/*prin reflexie cu incidenta oblica
+ 227 In figura alaturata sunt prezentate cateva metode de control ultrasonic. Lipseste metoda:
+\ imagini\0629.bmp
+/ prin transmisie cu incidenta oblica
+/*prin transmisie cu incidenta normala
+/ prin reflexie cu cu incidenta oblica
+ 228 In figura alaturata sunt prezentate metode de control ultrasonic. Lipseste metoda:
+\ imagini\0630.bmp
+/*prin transmisie cu incidenta oblica
+/ prin transmisie cu incidenta normala
+/ prin reflexie cu cu incidenta oblica
+ 229 In figura alaturata sunt prezentate cateva metode de control ultrasonic. Lipseste metoda:
+\ imagini\0631.bmp
+/ prin transmisie cu incidenta oblica
+/ prin transmisie cu incidenta normala
+/*prin reflexie cu cu incidenta oblica
+ 230 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0632.bmp
+\*imagini\0632a.bmp
+\ imagini\0632b.bmp
+\ imagini\0632c.bmp
+ 231 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0633.bmp
+\ imagini\0633a.bmp
+\*imagini\0633b.bmp
+\ imagini\0633c.bmp
+ 232 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0634.bmp
+\ imagini\0634a.bmp
+\ imagini\0634b.bmp
+\*imagini\0634c.bmp
+ 233 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0635.bmp
+\ imagini\0635a.bmp
+\ imagini\0635b.bmp
+\*imagini\0635c.bmp
+ 234 Controlam ultrasonic o tabla cu grosimea s, ca in figura alaturata. Care este distanta corecta dintre cele doua palpatoare?
+\ imagini\0636.bmp
+/*2*s*tg (beta)
+/ s/cos (beta)
+/ 2*s/cos (beta)
+ 235 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0637.bmp
+\ imagini\0637a.bmp
+\*imagini\0637b.bmp
+\ imagini\0637c.bmp
+ 236 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0638.bmp
+\ imagini\0638a.bmp
+\*imagini\0638b.bmp
+\ imagini\0638c.bmp
+ 237 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0639.bmp
+\ imagini\0639a.bmp
+\ imagini\0639b.bmp
+\*imagini\0639c.bmp
+ 238 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0640.bmp
+\ imagini\0640a.bmp
+\ imagini\0640b.bmp
+\*imagini\0640c.bmp
+ 239 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0641.bmp
+\ imagini\0641a.bmp
+\*imagini\0641b.bmp
+\ imagini\0641c.bmp
+ 240 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0642.bmp
+\ imagini\0642a.bmp
+\ imagini\0642b.bmp
+\*imagini\0642c.bmp
+ 241 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0643.bmp
+\ imagini\0643a.bmp
+\ imagini\0643b.bmp
+\*imagini\0643c.bmp
+ 242 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0644.bmp
+\*imagini\0644a.bmp
+\ imagini\0644b.bmp
+\ imagini\0644c.bmp
+ 243 Controlam ultrasonic o tabla cu grosimea s, ca in figura alaturata. Care este scara corecta a ecranului?
+\ imagini\0645.bmp
+/*2*s*tg (beta)
+/ s/cos (beta)
+/ 2*s/cos (beta)
+ 244 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0646.bmp
+\ imagini\0646a.bmp
+\*imagini\0646b.bmp
+\ imagini\0646c.bmp
+ 245 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0647.bmp
+\ imagini\0647a.bmp
+\*imagini\0647b.bmp
+\ imagini\0647c.bmp
+ 246 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0648.bmp
+\ imagini\0648a.bmp
+\ imagini\0648b.bmp
+\*imagini\0648c.bmp
+ 247 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0649.bmp
+\*imagini\0649a.bmp
+\ imagini\0649b.bmp
+\ imagini\0649c.bmp
+ 248 Facem controlul ultrasonic ca in figura alaturata. Care este imaginea corecta de pe ecran?
+\ imagini\0650.bmp
+\ imagini\0650a.bmp
+\ imagini\0650b.bmp
+\*imagini\0650c.bmp
+ 249 Care schita din figura reprezinta controlul prin reflexia ultrasunetelor?
+\ 
+\*imagini\0651a.bmp
+\ imagini\0651b.bmp
+\ imagini\0651c.bmp
+ 250 Care schita din figura alaturata reprezinta controlul prin transmisie in tandem?
+\ 
+\ imagini\0651a.bmp
+\ imagini\0651b.bmp
+\*imagini\0651c.bmp
+ 251 In care pozitie din figura alaturata obtinem imaginea de pe ecran?
+\ imagini\0652.bmp
+\ imagini\0652a.bmp
+\*imagini\0652b.bmp
+\ imagini\0652c.bmp
+ 252 In care pozitie din figura alaturata obtinem imaginea de pe ecran?
+\ imagini\0653.bmp
+\*imagini\0653a.bmp
+\ imagini\0653b.bmp
+\ imagini\0653c.bmp
+ 253 In care pozitie obtinem imaginea de pe ecran?
+\ imagini\0654.bmp
+\ imagini\0654a.bmp
+\ imagini\0654b.bmp
+\*imagini\0654c.bmp
+ 254 Care din defectele urmatoare dau ecouri mici si ascutite la controlul cu ultrasunete?
+\ 
+/ suprafetele plane
+/ incluziunile de zgura
+/*suprafetele concave
+ 255 Care din defectele urmatoare dau ecouri mici si ascutite la controlul cu ultrasunete?
+\ 
+/ suprafetele plane
+/ incluziunile de zgura
+/*suprafetele convexe
+ 256 Care din defectele urmatoare dau ecouri mici si ascutite la controlul cu ultrasunete?
+\ 
+/ suprafetele convexe
+/ incluziunile de zgura
+/*incluziunile de gaze
+ 257 Care din defectele urmatoare dau ecouri mici cu cateva varfuri ascutite la controlul cu ultrasunete?
+\ 
+/ suprafetele convexe
+/*incluziunile de zgura
+/ incluziunile de gaze
+ 258 Care din defectele urmatoare dau ecouri mari si ascutite la controlul cu ultrasunete?
+\ 
+/ suprafetele convexe
+/ incluziunile de zgura
+/*suprafetele plane
+ 259 In vederea controlului cu ultrasunete suprafata pisei de controlat trebuie:
+\ 
+/ degresata
+/ vopsita in alb
+/*curatata de oxizi
+ 260 In vederea controlului cu ultrasunete suprafata piesei de controlat trebuie:
+\ 
+/ decapata
+/*gresata
+/ vopsita in alb
+ 261 Executam controlul cu ultrasunete a unor table din otel laminate la cald. Drept cuplant folosim:
+\ 
+/*vaselina
+/ uleiul
+/ apa
+ 262 Executam controlul cu ultrasunete a unor table din otel laminate la cald ca in figura alaturata. In cazul incluziunilor de tunder (oxid de fier) imaginea corecta este pe ecranul:
+\ imagini\0655.bmp
+\ imagini\0655a.bmp
+\*imagini\0655b.bmp
+\ imagini\0655c.bmp
+ 263 Executam controlul cu ultrasunete a unor table din otel laminate la cald ca in figura alaturata. In cazul unui defect volumic imaginea corecta este pe ecranul:
+\ imagini\0655.bmp
+\ imagini\0655a.bmp
+\ imagini\0655b.bmp
+\*imagini\0655c.bmp
+ 264 Executam controlul cu ultrasunete prin reflexie a unor table din otel laminate la cald ca in figura alaturata. In cazul unei suprapuneri imaginea corecta este pe ecranul:
+\ imagini\0655.bmp
+\*imagini\0655a.bmp
+\ imagini\0655b.bmp
+\ imagini\0655c.bmp
+ 265 Executam controlul cu ultrasunete ca in figura alaturata. Care defect este depistat?
+\ imagini\0656.bmp
+/ a
+/*b
+/ c
+ 266 Executam controlul cu ultrasunete ca in figura alaturata. Care defect NU este depistat?
+\ imagini\0657.bmp
+/ a
+/*b
+/ c
+ 267 Palpam in zig-zag o imbinare sudata. Pasul de palpare trebuie sa fie egal cu:
+\ 
+/ lungimea palpatorului
+/*latimea palpatorului
+/ grosimea imbinarii
+ 268 Palpam in zig-zag o imbinare sudata de grosime s cu un palpator inclinat cu unghiul de patrundere beta. Deplasarea palpatorului se face intr-o zona aflata fata de axa sudurii la o distanta:
+\ 
+/ mai mica de s*tg (beta)
+/*mai mare de s*tg (beta)
+/ mai mare de 2*s*tg (beta)
+ 269 Care este imaginea corecta din figura?
+\ imagini\0659.bmp
+\ imagini\0659a.bmp
+\ imagini\0659b.bmp
+\*imagini\0659c.bmp
+ 270 Care este imaginea corecta din figura?
+\ imagini\0660.bmp
+\ imagini\0660a.bmp
+\ imagini\0660b.bmp
+\*imagini\0660c.bmp
+ 271 Care este imaginea corecta din figura?
+\ imagini\0661.bmp
+\ imagini\0661a.bmp
+\*imagini\0661b.bmp
+\ imagini\0661c.bmp
+ 272 Care este imaginea corecta din figura?
+\ imagini\0662.bmp
+\ imagini\0662a.bmp
+\*imagini\0662b.bmp
+\ imagini\0662c.bmp
+ 273 Care este imaginea corecta din figura?
+\ imagini\0663.bmp
+\*imagini\0663a.bmp
+\ imagini\0663b.bmp
+\ imagini\0663c.bmp
+ 274 La baza controlului cu radiatii penetrante sta:
+\ 
+/ reflexia radiatiei pe defecte
+/*atenuarea radiatiei de catre defecte
+/ patrunderea radiatiei in defecte
+ 275 Atenuarea mai puternica a radiatiei este produsa de o incluziune de:
+\ 
+/ are
+/ zgura
+/*metalica
+ 276 Atenuarea mai puternica a radiatiei este in dreptul unei incluziuni de zgura de marime:
+\ 
+/*mica
+/ mijlocie
+/ mare
+ 277 Intensitatea radiatiei in dreptul sudurii, fata de table, este:
+\ 
+/*mai mica
+/ mai mare
+/ egala
+ 278 Intensitatea radiatiei in dreptul defectului, fata de table, este:
+\ 
+/ mai mica
+/*mai mare
+/ egala
+ 279 In figura alaturata se prezinta schematic o lampa Röntgen. Anodul este la pozitia:
+\ imagini\0701.bmp
+/ 1
+/ 4
+/*6
+ 280 In figura alaturata se prezinta schematic o lampa Röntgen. Catodul este la pozitia:
+\ imagini\0701.bmp
+/*1
+/ 4
+/ 6
+ 281 In figura alaturata se prezinta schematic o lampa Röntgen. Anodul este coonfectionat din:
+\ imagini\0701.bmp
+/*cupru
+/ molibden
+/ titan
+ 282 Daca anodul de la lampa Röntgen se supraincalzeste rezulta:
+\ imagini\0701.bmp
+/ reducerea intensitatii radiatiei
+/ distrugerea tintei 4
+/*distrugerea filamentului 3
+ 283 Tensiunea de accelerare de la o lampa Röntgen se aplica intre elementele:
+\ imagini\0701.bmp
+/ 1 si 4
+/ 3 si 6
+/*1 si 6
+ 284 Tensiunea de accelerare de la o lampa Röntgen este de ordinul:
+\ 
+/ 1000 volti
+/ 10000 volti
+/*100000 volti
+ 285 Prin reglarea tensiunii de accelerare a lampii Röntgen putem modifica:
+\  
+/*grosimea pieselor ce pot fi controlate
+/ timpul de expunere
+/ gradul de innegrire al defectelor
+ 286 Prin reglarea curentului de filament a lampii Röntgen putem modifica:
+\ 
+/ grosimea pieselor controlate
+/*timpul de expunere
+/ gradul de innegrire al defectelor
+ 287 Tubul generator al unei instalatii Röntgen contine in interior ulei care are rolul de:
+\ 
+/ cuplant
+/*izolator electric
+/ transmitere in exterior a radiatiei
+ 288 Transformatorul din interiorul tubului generator al unei instalatii Röntgen are in secundar, fata de primar, un numar de spire:
+\ 
+/*mai mare
+/ mai mic
+/ egal
+ 289 Instalatiile Röntgen pot controla piese din otel cu grosimea de maxim:
+\ 
+/*60 milimetri
+/ 100 milimetri
+/ 150 milimetri
+ 290 In tara noastra se foloseste pentru controlul radiografic izotopul radioactiv:
+\ 
+/ Tm-170
+/*Ir-60
+/ Cs-137
+ 291 In tara noastra se foloseste pentru controlul radiografic izotopul radioactiv:
+\ 
+/ Tm-170
+/*Co-60
+/ Cs-137
+ 292 Cu ajutorul izotopului radioactiv Ir-192 se pot controla piese din otel cu grosimea de maxim:
+\ 
+/*60 milimetri
+/ 100 milimetri
+/ 150 milimetri
+ 293 Cu ajutorul izotopului radioactiv Co-60 se pot controla piese din otel cu grosimea de maxim:
+\ 
+/ 60 milimetri
+/ 100 milimetri
+/*150 milimetri
+ 294 Timpul de injumatatire al izotopului radioactiv Ir-192 este de ordinul:
+\ 
+/*zilelor
+/ lunilor
+/ anilor
+ 295 Timpul de injumatatire al izotopului radioactiv Co-60 este de ordinul:
+\ 
+/ zilelor
+/ lunilor
+/*anilor
+ 296 In figura alaturata se prezinta gama defectoscolului portabil GDP-6. Care element este din plumb?
+\ imagini\0702.bmp
+/ pozitia 1
+/*pozitia 2
+/ pozitia 6
+ 297 In figura alaturata se prezinta gama defectoscolului portabil GDP-6. In timpul iradierii sursa se afla in:
+\ imagini\0702.bmp
+/ pozitia 1
+/ pozitia 2
+/*pozitia 6
+ 298 In figura alaturata se prezinta gama defectoscopului portabil GDP-6. Sursa este deplasata la locul iradierii de catre:
+\ imagini\0702.bmp
+/ pozitia 1
+/ pozitia 2
+/*pozitia 4
+ 299 In figura alaturata se prezinta gama defectoscopului portabil GDP-6. Care element este confectionat dintr-un arc spiral imbracat in cauciuc?
+\ imagini\0702.bmp
+/ pozitia 4
+/ pozitia 6
+/*pozitia 9
+ 300 In figura alaturata se prezinta gama defectoscopului portabil GDP-6. Tubul de protectie si de depozitare a cablului de antrenare este:
+\ imagini\0702.bmp
+/ la pozitia 3
+/*la pozitia 8
+/ la pozitia 9
+ 301 In figura alaturata se prezinta gama defectoscopului portabil GDP-6. Tubul de ghidare a sursei este:
+\ imagini\0702.bmp
+/ la pozitia 3
+/ la pozitia 8
+/*la pozitia 9
+ 302 Teava de iradiere de la gama defectoscoape are rolul de a:
+\ 
+/ focaliza radiatia
+/*opri sursa
+/ atenua radiatia
+ 303 In figura este un dispozitiv de pozitionare. Sursa se gaseste in:
+\ imagini\0703.bmp
+/*colimator
+/ teava de iradiere
+/ container de iradiere 
+ 304 Colimatorul din figura are rolul de a:
+\ imagini\0703.bmp
+/ focaliza radiatia
+/ amplifica radiatia
+/*atenua radiatia
+ 305 In figura alaturata este prezentat un dispozitiv de pozitionare pe:
+\ imagini\0703.bmp
+/*exteriorul tevilor
+/ interiorul tevilor
+/ table
+ 306 Controlul radiometric are la baza proprietatea radiatiilor penetrante de a:
+\ 
+/ impresiona materiale fotografice
+/*ioniza gazele
+/ produce fluorescenta anumitor substante
+ 307 Controlul radiometric foloseste:
+\ 
+/ teava de iradiere
+/ containerul de transport
+/*containerul de iradiere
+ 308 In figura alaturata este prezentat un container de iradiere. El emite in exterior:
+\ imagini\0704.bmp
+/ radiatii X
+/ radiatii gama
+/*nu emite deoarece este inchis
+ 309 In figura alaturata este prezentat un container de iradiere. Pentru a emite in exterior radiatia gama trebuie sa actionam elementul:
+\ imagini\0704.bmp
+/ 2
+/*3
+/ 4
+ 310 In figura alaturata este prezentat un container de iradiere. Elementul 4 - obturator este confectionat din:
+\ imagini\0704.bmp
+/*plumb
+/ fonta
+/ molibden
+ 311 La controlul radiometric, defectul este prezentat ca:
+\ 
+/*semnal electric
+/ semnal magnetic
+/ imagine TV
+ 312 Controlul radioscopic are la baza proprietatea radiatiilor de a:
+\ 
+/ impresiona materiale fotografice
+/ ioniza gazele
+/*produce fluorescenta anumitor substante
+ 313 Controlul radioscopic are sensibilitatea relativa:
+\ 
+/ 5 procente
+/*10 procente
+/ 15 procente
+ 314 Controlul radioscopic are sensibilitatea relativa, fata de celelalte metode de control cu radiatii:
+\ 
+/ buna
+/*slaba
+/ medie
+ 315 Controlul radioscopic se aplica la controlul tablelor din otel cu grosimea de:
+\ 
+/*10 milimetri
+/ 25 milimetri
+/ 60 milimetri
+ 316 Controlul TVX se aplica la controlul tablelor din otel cu grosimea de:
+\ 
+/ 10 milimetri
+/*25 milimetri
+/ 60 milimetri
+ 317 Controlul radiografic are la baza proprietatea radiatiilor penetrante de a:
+\ 
+/*impresiona materiale radiografice
+/ ioniza gazele
+/ produce fluorescenta anumitor substante
+ 318 Lungimea radiografiei unei suduri, fata de distanta focala este:
+\ 
+/*mai mica
+/ egala
+/ mai mare
+ 319 Lungimea radiografiei unei suduri este limiata de faptul ca la extremitatile acesteia:
+\ 
+/ defectele sunt micsorate
+/*imaginea este mai alba
+/ imaginea este mai neagra
+ 320 Pregatirea suprafetelor in vederea controlului radiografic se face:
+\ 
+/ curatarea stratului de vopsea
+/ vopsirea in alb
+/*inscriptionarea conform palurilor
+ 321 Curatarea suprafetelor in vederea controlului radiografic se face:
+\ 
+/ mecanic
+/ chimic
+/*oricum
+ 322 Ecranele intensificatoare folosite la controlul radiografic produc:
+\ 
+/ intensificarea imaginii defectelor
+/ cresterea grosimii controlate
+/*reducerea timpului de expunere
+ 323 La controlul cu radiatii gama se folosesc ecrane intensificatoare:
+\ 
+/ fluorescente
+/ luminiscente
+/*din plumb
+ 324 La controlul cu radiatii X se folosesc ecrane intensificatoare:
+\ 
+/*fluorescente
+/ luminiscente
+/ din plumb
+ 325 Sensibilitatea absoluta a controlului radiografic se determina cu ajutorul:
+\ 
+/*indicatorilor de calitate
+/ cifrelor si literelor marcatoare
+/ ecranelor intensificatoare
+ 326 In figurile de mai jos sunt prezentati diferiti indicatori de calitate a imaginii. In care din imagini se gaseste indicatorul ICI-1P?
+\ 
+\ imagini\0705a.bmp
+\ imagini\0705b.bmp
+\*imagini\0705c.bmp
+ 327 In figurile de mai jos sunt prezentati diferiti indicatori de calitate a imaginii. In care din imagini se gaseste indicatorul ICI-1T?
+\ 
+\*imagini\0705a.bmp
+\ imagini\0705b.bmp
+\ imagini\0705c.bmp
+ 328 In figurile alaturate sunt prezentati diferiti indicatori de calitate. Indicatorul ICI-1H se gaseste la pozitia:
+\ 
+\ imagini\0705a.bmp
+\*imagini\0705b.bmp
+\ imagini\0705c.bmp
+ 329 Calitatea imaginii radiografice este data de:
+\ 
+/ contrastul filmului radiografic
+/ calitatea imaginii de pe film
+/*marimea detaliului ICI vizibil pe film
+ 330 Calitatea imaginii radiografice se masoara in:
+\ 
+/*milimetri
+/ procente
+/ grad de innegrire
+ 331 Sensibilitatea absoluta a unei radiografii reprezinta dimensiunea defectului:
+\ 
+/*minim depistat
+/ minim depistat raportat la grosimea controlata
+/ minim depistat raportat la grosimea ICI
+332 Sensibilitatea relativa a unei radiografii reprezinta dimensiunea defectului:
+\ 
+/ minim depistat
+/*minim depistat raportat la grosimea controlata
+/ minim depistat raportat la grosimea ICI
+ 333 Sensibilitatea relativa se masoara in:
+\ 
+/ milimetri
+/*procente
+/ grad de innegrire
+ 334 Controlul radiografic are sensibilitatea relativa:
+\ 
+/*5%
+/ 10%
+/ 15%
+ 335 Indicatorii de calitate (ICI) cu fire dau imaginea unor linii paralele, echidistante. Ei se aseaza fata de sudura:
+\ 
+/*perpendicular
+/ paralel
+/ unul paralel si unul perpendicular
+ 336 In cazul imbinarilor sudate cap la cap de table folosim indicatori de calitate (ICI) cu model triunghiular. Acestia se aseaza, fata de sudura:
+\ 
+/ perpendicular
+/*paralel
+/ inclinat
+ 337 In cazul imbinarilor sudate cap la cap de table folosim indicatori de calitate (ICI) cu model patratic. Ei se aseaza in radiografie fata de sudura:
+\ 
+/ perpendicular pe sudura, pe mijlocul filmului
+/ paralel cu sudura, pe mijlocul filmului
+/*paralel cu sudura, la extremitatea filmului
+ 338 In cazul imbinarilor de tevi si conducte folosim  indicatori de calitate (ICI) de model geometric:
+\ 
+/ P - patratic
+/ T - triunghiular
+/*H - hexagonal
+ 339 In cazul radiografierii panoramice a imbinarilor de tevi si conducte folosim indicatorii de calitate (ICI) de model geometric hexagonal in numar de:
+\ 
+/ unu
+/ doi
+/*trei
+ 340 Pozitionarea surselor de radiatii fata de piesa controlata se face la o distanta focala de aproximativ:
+\ 
+/*0.5 milimetri
+/ 1 milimetru
+/ 1.5 milimetri
+ 341 Cresterea distantei focale la controlul cu radiatii prezinta avantajul:
+\ 
+/*vedem defecte mai mici
+/*scade timpul de expunere
+/ radiografia este putin clara
+ 342 Micsorarea distantei focale la controlul cu radiatii prezinta avantajul:
+\ 
+/ vedem defecte mai mici
+/*scade timpul de expunere
+/ radiografia este mai clara
+ 343 Cresterea distantei focale la controlul cu radiatii prezinta dezavantajul:
+\ 
+/ vedem defecte prea mici
+/*creste timpul de expunere
+/ radiografia este mai putin clara
+ 344 In figura alaturata se prezinta iradierea oblica a unei suduri cap la cap de table in scopul depistarii:
+\ imagini\0706.bmp
+/ fisurilor longitudinale
+/*lipsei de topire laterala
+/ nepatrunderii
+ 345 In figura alaturata se prezinta iradierea oblica a unei suduri cap la cap. Lipsa de topire laterala apare ca o:
+\ imagini\0706.bmp
+/ linie tremurata
+/*linie dreapta
+/ pata difuza
+ 346 In figurile de mai jos se prezinta diverse scheme de iradiere a unei imbinari prin suprapunere. Care din ele este gresita?
+\ 
+\ imagini\0707a.bmp
+\*imagini\0707b.bmp
+\ imagini\0707c.bmp
+ 347 In figurile de mai jos se prezinta diverse scheme de iradiere a unei imbinari prin suprapunere. La care din ele rezulta un film innegrit uniform:
+\ 
+\*imagini\0707a.bmp
+\ imagini\0707b.bmp
+\ imagini\0707c.bmp
+ 348 In figura alaturata se prezinta iradierea din exterior printr-un perete. Odata cu cresterea razei de curbura lungimea filmului expus:
+\ imagini\0708.bmp
+/*creste
+/ scade
+/ ramane aceeasi
+ 349 In figura alaturata se prezinta iradierea din exterior printr-un perete. Odata cu scaderea razei de curbura lungime filmului expus:
+\ imagini\0708.bmp
+/ creste
+/*scade
+/ ramane aceeasi
+ 350 In figura alaturata se prezinta iradierea din exterior printr-un perete. Aceasta se aplica la:
+\ imagini\0708.bmp
+/*rezervoare
+/ conducte
+/ tevi
+ 351 In figura alaturata se prezinta iradierea din interior printr-un perete. Odata cu scaderea razei de curbura lungimea filmului expus:
+\ imagini\0709.bmp
+/*creste
+/ scade
+/ ramane aceeasi
+ 352 In figura alaturata se prezinta iradierea din interior printr-un perete. Odata cu cresterea razei de curbura lungimea filmului expus:
+\ imagini\0709.bmp
+/ creste
+/*scade
+/ ramane aceeasi
+ 353 In figura alaturata se prezinta iradierea din interior printr-un perete. Aceasta se aplica la:
+\ imagini\0709.bmp
+/ rezervoare
+/*conducte
+/ tevi
+ 354 In figura alaturata se prezinta iradierea din interior printr-un perete. Sudura apare pe film:
+\ imagini\0709.bmp
+/*dreapta
+/ curba
+/ eliptica
+ 355 In figura alaturata se prezinta iradierea centrica din interior (panoramica). Aceasta se aplica la:
+\ imagini\0710.bmp
+/ rezervoare
+/*conducte
+/ tevi
+ 356 In figura alaturata se prezinta iradierea panoramica a conductelor. Pentru pozitionarea sursei se folosesc:
+\ imagini\0710.bmp
+/ standuri de sustinere
+/ dispozitive magnetice
+/*dispozitive de centrare cu trei brate
+ 357 In figura alaturata se prezinta iradierea din exterior prin doi pereti. Se aplica la:
+\ imagini\0711.bmp
+/ rezervoare
+/*conducte mici
+/ tevi
+ 358 In figura alaturata se prezinta iradierea din exterior prin doi pereti. Cate radiografii se executa?
+\ imagini\0711.bmp
+/ doua
+/*trei
+/ patru
+ 359 In figura alaturata se prezinta iradierea din exterior prin doi pereti. Sudura apare pe film:
+\ imagini\0711.bmp
+/ dreapta
+/*curba
+/ eliptica
+ 360 In figura alaturata se prezinta iradierea din exterior prin doi pereti. Se aplica la:
+\ imagini\0712.bmp
+/ rezervoare
+/ conducte mici
+/*tevi
+ 361 In figura alaturata se prezinta iradierea din exterior prin doi pereti. Cate radiografii se executa?
+\ imagini\0712.bmp
+/*doua
+/ trei
+/ patru
+ 362 In figura alaturata se prezinta iradierea din exterior prin doi pereti. Sudarea apare pe film:
+\ imagini\0712.bmp
+/ dreapta
+/ curba
+/*eliptica
+ 363 In figura alaturata se prezinta doua tuburi generatoare. Ele se deosebesc dupa:
+\ imagini\0713.bmp
+/ tipul radiatiei emise
+/*directia fascicolului de radiatie
+/ putere de patrundere a radiatiei
+ 364 Tubul generator din figura alaturata se aplica la controlul radiografic efectuat pentru controlul:
+\ imagini\0713a.bmp
+/*rezervoare
+/ conducte mici
+/ tevi
+ 365 Tubul generator din figura alaturata se aplica la controlul radiografic efectuat dupa schema de iradiere de la figura:
+\ imagini\0713b.bmp
+\ imagini\0709.bmp
+\*imagini\0710.bmp
+\ imagini\0711.bmp
+ 366 Pe radiografia alaturata avem:
+\ imagini\0714.bmp
+/*nepatrundere
+/ fisura
+/ suprapunere
+ 367 Pe radiografia alaturata avem:
+\ imagini\0715.bmp
+/ nepatrundere
+/*fisura
+/ lipsa de topire laterala
+ 368 Pe radiografia alaturata avem:
+\ imagini\0716.bmp
+/*crestatura
+/ suflura
+/ lipsa de topire

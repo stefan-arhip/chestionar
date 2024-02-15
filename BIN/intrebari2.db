@@ -1,0 +1,2070 @@
+   1 Ce semnifica cifrele din simbolul otelurilor OL37, OL42, OL50 etc?
+\ 
+/ continutul de carbon
+/*rezistenta la rupere in daN/mm2
+/ duritatea materialului
+   2 Ce semnifica cifrele din simbolul otelurilor OLC15, OLC20, OLC45 etc?
+\ 
+/*continutul in carbon
+/ rezistenta la rupere in daN/mm2
+/ duritatea materialului
+   3 Sudarea prin presiune se realizeaza de regula:
+\ 
+/*prin apropierea atomilor periferici
+/ prin folosirea unui material de adaos
+/ prin solidificarea metalului topit la presiunea atmosferica
+   4 Sudam la cald OL42. Ce presune folosim?
+\ 
+/ 420daN/mm2
+/ 42daN/mm2
+/*4.2daN/mm2
+   5 Sudam la rece OL42. Ce presiune folosim?
+\ 
+/*420daN/mm2
+/ 42daN/mm2
+/ 4.2daN/mm2
+   6 Ce temperatura folosim pentru sudarea la cald, in stare solida, a OL42?
+\ 
+/ 700°C
+/*1200°C
+/ 1500°C
+   7 Ce temperatura folosim pentru sudarea la cald, cu topire intermediara, a OL42?
+\ 
+/ 700°C
+/ 1200°C
+/*1500°C
+   8 Care figura reprezinta o imbinare prin suprapunere?
+\ 
+\ imagini2\0101a.bmp
+\ imagini2\0101b.bmp
+\*imagini2\0101c.bmp
+   9 Care figura reprezinta o imbinare in cruce?
+\ 
+\ imagini2\0101a.bmp
+\*imagini2\0101b.bmp
+\ imagini2\0101c.bmp
+  10 In figura alaturata este reprezentata o imbinare:
+\ imagini2\0102.bmp
+/ in T
+/ in cruce
+/*prin suprapunere
+  11 In figura alaturata este reprezentata o imbinare:
+\ imagini2\0103.bmp
+/ in T
+/*in cruce
+/ prin suprapunere
+  12 In figura alaturata este reprezentata o imbinare:
+\ imagini2\0104.bmp
+/*in T
+/ in cruce
+/ prin suprapunere
+  13 Daca micsoram numarul de spire din primarul unui transformator:
+\ 
+/ se micsoreaza curentul
+/*creste curentul
+/ creste tensiunea
+  14 Transformatoarele folosite la sudarea prin presiune au in secundar:
+\ 
+/*o spira
+/ zece spire
+/ 100 de spire
+  15 Clema elastica serveste la:
+\ 
+/ conectarea rapida a pieselor la curent
+/ conectarea curentului la elementul de sudat
+/*conectarea curentului la un element mobil
+  16 La sudarea cap la cap prin rezistenta forta de presare se aplica:
+\ 
+/ in momentul cuplarii curentului
+/*inaintea momentului cuplarii curentului
+/ dupa momentul cuplarii curentului
+  17 La sudarea cap la cap prin rezistenta rezulta o bavura:
+\ 
+/ dreapta
+/ ascutita
+/*neteda
+  18 Rezistenta electrica proprie a capetelor de sudat este de ordinul:
+\ 
+/ Ohmilor
+/*microOhmilor
+/ kiloOhmilor
+  19 Rezistenta de contact se calculeaza in fuctie de:
+\ 
+/ temperatura capetelor
+/*forta de presare a capetelor
+/ sectiunea capetelor
+  20 Rezistenta electrica de contact la sudarea cap la cap prin rezistenta variaza in timp astfel:
+\ 
+/*scade
+/ este constanta
+/ creste
+  21 La sudarea cap la cap prin rezistenta, rezistenta proprie a materialului se calculeaza cu relatia:
+\ 
+/*R=ro*L/A
+/ R=K/F^x
+/ R=K/A^x
+  22 La sudarea cap la cap prin rezistenta, rezistenta de contact a materialulul se calculeaza cu relatia:
+\ 
+/ R=ro*L/A
+/*R=K/F^x
+/ R=K/A^x
+  23 Care din materialele urmatoare au rezistenta electrica proprie (rezistivitatea) cea mai mare:
+\ 
+/ OL37
+/ OL42
+/*OL50
+  24 Care din materialele urmatoare au rezistenta electrica proprie (rezistivitatea) cea mai mare:
+\ 
+/ OLC15
+/ OLC35
+/*OLC45
+  25 Care din materialele urmatoare au rezistenta electrica proprie (rezistivitatea) cea mai mare:
+\ 
+/ fonta
+/*otelul inox
+/ otelul carbon
+  26 Care din materialele urmatoare au rezistenta electrica proprie (rezistivitatea) cea mai mica:
+\ 
+/ fonta
+/ otelul inox
+/*otelul carbon
+  27 Sudarea cap la cap prin rezistenta se face la temperatura:
+\ 
+/ 723...1100 grade Celsius
+/*1100..1300 grade Celsius
+/ 1300..1500 grade Celsius
+  28 Se poate suda cap la cap o bara cu o teava daca:
+\ 
+/ folosim o forta de presare mai mare
+/ folosim un timp mai mare de trecere a curentului
+/*prelucram unul din capete
+  29 La sudarea cap la cap prin rezistenta incalzirea uniforma pe sectiune a capetelor se obtine prin:
+\ 
+/ presarea puternica a capetelor
+/ curatarea capetelor
+/*taierea perpendiculara a capetelor
+  30 Curatarea frontala a capetelor sudate prin rezistenta este necesara pentru:
+\ 
+/ reaIizara unui contact electric bun
+/ cresterea rezistentei de contact
+/*evitarea scaderii rezistentei mecanice
+  31 La baza procesului de sudare prin rezistenta sta:
+\ 
+/ contactul electric slab
+/*contactul electric ferm
+/ contactul cu rezistenta electrica mare
+  32 Care dintre urmatoarele operatii de pregatire a capetelor NU se recomanda la sudarea cap la cap prin rezistenta:
+\ 
+/ curatarea suprafetei frontale
+/ prelucrarea de egalizare
+/*prelucrarea conica a unui capat.
+  33 Curatarea zonei de prindere in bacuri a capetelor de sudat este necesara pentru:
+\ 
+/ evitarea deteriorarii bacurilor
+/ evitarea deteriorarii capetelor
+/*evitarea deteriorarii bacuriior si capetelor
+  34 Lungimea libera initiala la sudarea cap la cap prin rezistenta a unor bare din otel este:
+\ 
+/ (0,1..0,5)d
+/*(0,5..1)d
+/ (1..2,5)d
+  35 In figura alaturata este reprezentata, in timpul sudarii cap la cap prin rezistenta:
+\ imagini2\0201.bmp
+/ protejarea capatului subtire
+/ protejarea capatului gros
+/*preincalzirea capatului gros
+  36 Piesa intermediara din figura alaturata este din:
+\ 
+/ aluminiu
+/*cupru
+/ otel carbon
+  37 Daca sudam cap la cap piese din materiale diferite, alegem pentru capatul cu rezistivitate mai mare o lungime libera initiala:
+\ 
+/*mai mica
+/ egala
+/ mai mare
+  38 Daca sudam cap la cap piese din materiale diferite, alegem pentru capatul cu rezistivitate mai mica o lungime libera initiala:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+  39 Daca sudam cap la cap piese cu sectiuni diferite, alegem pentru capatul cu sectiune mai mare o lungime libera initiala:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+  40 Daca sudam cap la cap piese cu sectiuni diferite, alegem pentru capatul cu sectiune mai mica o lungime libera initiala:
+\ 
+/*mai mica
+/ egala
+/ mai mare
+  41 La sudarea cap la cap prin rezistenta folosim in cazul otelului carbon o presiune de refulare de:
+\ 
+/*3 daN/mm2
+/ 10 daN/mm2
+/ 30 daN/mm2
+  42 La sudarea cap la cap prin rezistenta folosim in cazul otelului carbon o densitate de curent de:
+\ 
+/ 10 A/mm2
+/*100 A/mm2
+/ 400 A/mm2
+  43 Timpul obisnuit de sudare cap la cap prin rezistenta este de ordinul:
+\ 
+/ 0,1...0,5s
+/*0,5...5s
+/ 5...25s
+  44 Sudarea cap la cap prin rezistenta se aplica la sudarea lanturilor:
+\ 
+/ miniere
+/*comerciale
+/ navale
+  45 Sudarea lantului din figura se face prin:
+\ imagini2\0202.bmp
+/ scanteiere
+/*rezistenta
+/ puncte
+  46 Care este avantajul sudarii cap la cap prin rezistenta?
+\ 
+/ rezistenta mecanica buna
+/ economia de energie electrica
+/*bavura neteda
+  47 Care este avantajul sudarii cap la cap prin rezistenta?
+\ 
+/ rezistenta mecanica buna
+/ economia de energie electrica
+/*ciclul de sudare simplu
+  48 Dezavantajul sudarii cap la cap prin rezistenta este:
+\ 
+/*rezistenta mecanica
+/ consumul de energie electrica
+/ bavura rezultata
+  49 Dezavantajul sudarii cap la cap prin rezistenta este:
+\ 
+/ consumul de energie electrica
+/ bavura rezultata
+/*pregatirea suprafeteIor
+  50 Sudarea cap la cap prin scanteiere incepe cu:
+\ 
+/ presarea capetelor
+/ trecerea curentului
+/*cuplarea transformatorului
+  51 La baza procesului de sudare cap Ia cap prin scanteiere se gaseste:
+\ 
+/*contactul electric slab
+/ contactul electric ferm
+/ rezistenta electrica proprie a capetelor
+  52 Sudarea cap la cap prin scanteiere se face la temperatura de:
+\ 
+/ 723...11OO grade Celsius
+/ 1100...1300 grade Celsius
+/*1300...1500 grade Celsius
+  53 La sudarea cap a cap prin scanteiere sursa termica care incalzeste suprafata de sudat este:
+\ 
+/ puntea de metal topit
+/*craterul de pe suprafata frontala
+/ rezistenta electrica proprie a materialului
+  54 La sudarea cap la cap prin scanteiere este necesara:
+\ 
+/ curatarea suprafetei frontale
+/ taierea ingrijita a capatului
+/*curatarea suprafetei de prindere
+  55 La sudarea cap la cap prin scanteiere rezulta o bavura:
+\ 
+/*ascutita
+/ neteda
+/ dreapta
+  56 Scanteierea prezinta urmatorul avantaj principal:
+\ 
+/*protectia zonei incalzite
+/ formarea de cratere
+/ scurtarea Ia topire
+  57 Scanteierea prezinta urmatorul avantaj principal:
+\ 
+/*autocuratirea suprafetei frontale
+/ formarea de cratere
+/ scurtarea a topire
+  58 Scanteierea prezinta urmatorul dezavantaj principal:
+\ 
+/ protectia zonei incalzite
+/*forma bavurii
+/ curatirea suprafetelor
+  59 Scanteierea prezinta urmatoruI dezavantaj principal:
+\ 
+/ protectia zonei incalzite
+/*variatia vitezei de sudare
+/ curatirea suprafetelor
+  60 Rezistenta electrica de contact la sudarea cap la cap prin scanteiere variaza in timp astlel:
+\ 
+/ scade
+/*este constanta
+/ creste
+  61 La sudarea cap la cap prin scanteiere, rezistenta proprie a materialului se calculeaza cu relatia:
+\ 
+/*R=ro*L/A
+/ R=K/F^x
+/ R=K/A^x
+  62 La sudarea cap la cap prin scanteiere, rezistenta de contact a materialului se calculeaza cu relatia:
+\ 
+/ R=ro*L/A
+/ R=K/F^x
+/*R=K/A^x
+  63 Rezistenta electrica de contact cu cea mai mare valoare se gaseste la sudarea:
+\ 
+/ prin rezistenta
+/*prin scanteiere
+/ prin puncte
+  64 Rezistenta electrica de contact la sudarea cap a cap prin scanteiere este fata de cea de la sudarea prin rezistenta:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+  65 La sudarea cap la cap prin scanteiere este necesara:
+\ 
+/ perpendicularitatea suprafetei frontale
+/ curatarea suprafetei frontale
+/*curatarea suprafetei laterale de prindere
+  66 La sudarea cap la cap prin scanteiere debitarea capetelor poate fi facuta:
+\ 
+/ prin strunjire
+/ la ghilotina
+/*prin orice procedeu
+  67 La sudarea cap la cap prin scanteiere nu este necesara:
+\ 
+/ prelucrarea conica a capatului
+/*curatarea suprafetei frontale
+/ curatarea suprafetei laterale de prindere
+  68 La sudarea barelor groase cap la cap prin scanteiere amorsarea usoara a procesului este favorizata de:
+\ 
+/*prelucrarea conica a capatului
+/ prelucrarea cilindrica a capatuIui
+/ prelucrarca perpendiculara a capatului
+  69 La sudarea cap la cap prin scanteiere, fata de sudarea prin rezistenta, lungimea libera initiala este:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+  70 La ce procedeu se foloseste densitatea cea mai mica de curent?
+\ 
+/ sudarea prin rezistenta
+/*sudarea prin scanteiere
+/ sudarea prin puncte
+  71 La sudarea cap la cap prin scanteiere, fata de cea de la sudarea prin rezistenta, forta de refulare este:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+  72 La sudarea cap la cap prin scanteiere viteza de refulare fata de viteza de topire este:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+  73 In figura alaturata este reprezentata sudarea cap la cap prin:
+\ imagini2\0301a.bmp
+/*rezistenta
+/ scanteiere
+/ inductie
+  74 In figura alaturata este reprezentata sudarea cap la cap prin:
+\ imagini2\0301b.bmp
+/ rezistenta
+/*scanteiere
+/ inductie
+  75 La sudarea cap la cap prin scanteiere viteza de topire a capetelor este:
+\ 
+/ descrescatoare
+/ constanta
+/*crescatoare
+  76 La care din urmatoareIe procedee de sudare cap la cap este necesara indepartarea bavurii formate:
+\ 
+/ sudarea prin rezistenta
+/ sudarea cu flacara in stare solida
+/*sudarea prin scanteiere
+  77 La care din urmatoareIe procedee de sudare cap la cap NU este necesara indepartarea bavurii formate:
+\ 
+/*sudarea prin rezistenta
+/ sudarea cu flacara cu topire intermediara
+/ sudarea prin scanteiere
+  78 La sudarea cap la cap indepartarea bavurii se face:
+\ 
+/ in timpul sudarii
+/*imediat dupa sudare
+/ ulterior sudarii
+  79 Debavurarea transversala din figura alaturata se aplica la bare cu sectiune:
+\ imagini2\0302.bmp
+/*mica
+/ mijlocie
+/ mare
+  80 Debavurarea longitudinala din figura alaturata se aplica la bara cu sectiune:
+\ imagini2\0303.bmp
+/ mica 
+/ mijlocie 
+/*mare
+  81 Debavurarea barelor este reprezentata in figura alaturata:
+\ 
+\*imagini2\0304a.bmp
+\ imagini2\0304b.bmp
+\ imagini2\0304c.bmp
+  82 Debavurarea platbenzilor este reprezentata in figura alaturata:
+\ 
+\ imagini2\0304a.bmp
+\*imagini2\0304b.bmp
+\ imagini2\0304c.bmp
+  83 Debavurarea benzilor este reprezentata in figura alaturata:
+\ 
+\ imagini2\0304a.bmp
+\ imagini2\0304b.bmp
+\*imagini2\0304c.bmp
+  84 In figura alaturata este reprezentata debavurarea:
+\ imagini2\0305.bmp
+/ barelor
+/ benzilor
+/*platbenzilor
+  85 In figura alaturata este reprezentata debavurarea:
+\ imagini2\0306.bmp
+/ barelor
+/*benzilor
+/ platbenzilor
+  86 In figura alaturata se urmareste evitarea depunerii interioare de metal expulzat in timpul scanteierii. In teava se insufla:
+\ imagini2\0307.bmp
+/ aer
+/ oxigen
+/*bioxid de carbon
+  87 In figura alaturata se urmareste micsorarea bavurii interioare. In teava se insufla:
+\ 
+/ aer
+/*oxigen
+/ bioxid de carbon 
+  88 din punct de vedere al transmiterii curentului se prefera pentru materialul bacurilor masinilor de sudat cap la cap:
+\ 
+/*cuprul
+/ aliajele de cupru
+/ aluminiul
+  89 Din punct de vedere al preluarii caldurii se prefera pentru materialul bacurilor masinilor de sudat cap la cap:
+\ 
+/*cuprul
+/ aliajele de cupru
+/ aluminiu
+  90 Din punct de vedere al transmiterii fortei de strangere se prefera pentru materialul bacurilor masinilor de sudat cap la cap:
+\ 
+/ cuprul
+/*aliajele de cupru
+/ aluminiul
+  91 Asezarea pieselor in bacuri trebuie facuta:
+\ 
+\ imagini2\0309a.bmp
+\*imagini2\0309B.bmp
+/ oricum
+  92 Forta de strangere din bacuri trebuie sa fie fata de forta de refulare:
+\ 
+/ mai mica
+/*mai mare
+/ egala
+  93 In care din figurile urmatoare nu este necesara forta de strangere?
+\ 
+\ imagini2\0310a.bmp
+\ imagini2\0310b.bmp
+\*imagini2\0310c.bmp
+  94 In figura alaturata este necesara o forta de strangere fata de forta de refulare:
+\ imagini2\0311.bmp
+/*mai mica
+/ egala
+/ mai mare
+  95 In care din figurile urmatoare este corect reprezentata alegerea bacurilor masinilor de sudat cap la cap?
+\ 
+\ imagini2\0312a.bmp
+\*imagini2\0312b.bmp
+\ imagini2\0312c.bmp
+  96 In care din figurile alaturate este necesara o forta de strangere?
+\ 
+\ imagini2\0313a.bmp
+\ imagini2\0313b.bmp
+\*imagini2\0313c.bmp
+  97 Care solutie constructiva de bacuri asigura o precizie mai buna a centrarii semifabricatelor de sudat?
+\ 
+\ imagini2\0314a.bmp
+\ imagini2\0314b.bmp
+\*imagini2\0314c.bmp
+  98 Care solutie constructiva de bacuri se folosesc la prinderea tevilor cu pereti subtiri?
+\ 
+\ imagini2\0315a.bmp
+\ imagini2\0315b.bmp
+\*imagini2\0315c.bmp
+  99 Care solutie constructiva de bacuri asigura o strangere mai buna a semifabricatelor de sudat?
+\ 
+\*imagini2\0316a.bmp
+\ imagini2\0316b.bmp
+\ imagini2\0316c.bmp
+ 100 In figura alaturata trebuie sa folosim?
+\ imagini2\0317.bmp
+/ doua bacuri din cupru
+/ doua bacuri din otel
+/*un bac din cupru si un bac din otel
+ 101 In figura alaturata trebuie sa folosim un bac din otel:
+\ imagini2\0317.bmp
+/ in partea inferioara
+/*in partea superioara
+/ in ambele parti
+ 102 Un avantaj al sudarii cap la cap prin scanteiere este:
+\ 
+/*rezistenta mecanica buna
+/ economia de energie electrica
+/ bavura rezultata
+ 103 Un avantaj al sudarii cap la cap prin scanteiere este:
+\ 
+/ economia de energie electrica
+/ ciclul de sudare simplu
+/*pregatirea suprafetelor
+ 104 Unul din dezavantajele sudarii cap la cap prin scanteiere este:
+\ 
+/ rezistenta mecanica
+/ consumul de energie electrica
+/*bavura rezultata
+ 105 Bara prezentata in figura alaturata a fost sudata:
+\ imagini2\0318.bmp
+/ prin rezistenta
+/*prin scanteiere
+/ cu flacara
+ 106 Zaua de lant din figura alaturata a fost sudata:
+\ imagini2\0319.bmp
+/ prin rezistenta
+/*prin scanteiere
+/ cu flacara
+ 107 La o roata de autovehicul se sudeaza prin scanteiere:
+\ 
+/ discul rotii
+/*janta
+/ piulita pentru ornament
+ 108 Profilele din figura alaturata au fost sudate in colt:
+\ imagini2\0320.bmp
+/ prin rezistenta
+/*prin scanteiere
+/ cu flacara
+ 109 Se sudeaza in puncte:
+\ 
+/ bare
+/ tevi
+/*table
+ 110 Sudarea in puncte directa se face in mod obisnuit:
+\ 
+/ cu un electrod
+/*cu doi electrozi dispusi de o parte si alta a tablelor
+/ cu doi electrozi dispusi di aceiasi parte a tablelor
+ 111 Sudarea in puncte indirecta se face in mod obisnuit:
+\ 
+/ cu un electrod
+/ cu doi electrozi dispusi de o parte si alta a tablelor
+/*cu doi electrozi dispusi di aceiasi parte a tablelor
+ 112 Operatia de sudare in puncte incepe cu faza:
+\ 
+/ cuplarea transformatorului
+/*aplicarea fortei
+/ trecerea curentului
+ 113 Operatia de sudare in puncte se termina cu faza:
+\ 
+/ decuplarea transformatorului
+/*anularea fortei
+/ trecerea curentului
+ 114 La sudarea in puncte, rezistenta electrica a materialului se calculeaza cu relatia:
+\ 
+/ R=ro*L/A
+/ R=K/F^x
+/*R=4*ro*s/pi*d^2
+ 115 Densitatea maxima a curentului la sudarea in puncte, in interiorul materialului de sudat, este:
+\ 
+/*pe axa electrozilor
+/ la jumatatea electrozilor
+/ la periferia electrozilor
+ 116 Care este reprezentarea reala a trecerii curentului prin piesele de sudat in puncte?
+\ 
+\ imagini2\0401a.bmp
+\*imagini2\0401b.bmp
+\ imagini2\0401c.bmp
+ 117 Densitatea maxima a curentului la sudarea in puncte, in zona de contact a electrodului cu tablele, este:
+\ 
+/ pe axa electrozilor
+/ la jumatatea electrozilor
+/*la periferia electrozilor
+ 118 Liniile de trecere a curentului, la sudarea in puncte, odata cu incalzirea materialului:
+\ 
+/ se apropie de axa electrozilor
+/ se apropie de periferia electrozilor
+/*se indeparteaza de periferia electrozilor
+ 119 Liniile de trecere a curentului, la sudarea in puncte, odata cu scaderea fortei de presare a electrozilor:
+\ 
+/*se apropie de axa electrozilor
+/ se apropie de periferia electrozilor
+/ se indeparteaza de periferia electrozilor
+ 120 La sudarea in puncte, odata cu indepartarea liniilor de curent fata de axa electrozilor, rezistenta electrica proprie a materialului:
+\ 
+/*se micsoreaza
+/ se mareste
+/ se mentine constanta
+ 121 La sudarea in puncte, odata cu incalzirea, rezistenta electrica proprie a materialului:
+\ 
+/ se micsoreaza
+/*se mareste
+/ se mentine constanta
+ 122 La sudarea in puncte, rezistenta electrica de contact se  calculeaza cu relatia:
+\ 
+/ R=ro*L/A
+/*R=K/F^x
+/ R=K/A^x
+ 123 La sudarea in puncte, odata cu incalzirea, rezistenta electrica de contact:
+\ 
+/*se micsoreaza
+/ se mareste
+/ se mentine constanta
+ 124 La sudarea in puncte, odata cu incalzirea, rezistenta electrica de contact:
+\ 
+/*se micsoreaza
+/ se mareste
+/ se mentine constanta
+ 125 La sudarea in puncte rezistenta electrica de contact fata de rezistenta materialului:
+\ 
+/ este mai mica
+/ este egala
+/*este mai mare
+ 126 La sudarea in puncte prima faza importanta in formarea punctului sudat este:
+\ 
+/*sudarea prin rezistenta
+/ sudarea prin scanteiere;
+/ topirea materialului
+ 127 La sudarea in puncte metalul topit al nucleulul este impiedicat sa iasa in exterior:
+\ 
+/*de materialul sudat in stare solida
+/ de cresterea fortei de presare dintre table
+/ de varful electrodului
+ 128 Mentinerea fortei de presare dupa intreruperea curentului la sudarea in puncte se face pentru:
+\ 
+/ a evita deplasarea tablelor
+/*a ajuta contractia nucleului
+/ a ajuta contactul electric ferm
+ 129 Obtinem o fata estetica la sudarea in puncte folosind:
+\ 
+/*un electrod mai mare
+/ un electrod mai mic
+/ un curent mai mic
+ 130 Amprenta formata la sudarea in puncte trebuie sa aiba o adancime:
+\ 
+/*mai mica de un milimetru
+/ de un milimetru
+/ mai mare de un milimetru
+ 131 Amprenta formata la sudarea in puncte trebuie sa aiba o adancime:
+\ 
+/*mai mica de 0,1*s
+/ aproximativ de 0,1*s
+/ mai mare de 0,1*s
+ 132 Amprenta ce apare a sudarea in puncte:
+\ 
+/ dupa incalzirea in domeniul plastic
+/ in timpul topirii nucleului
+/*in timpul solidificarii nucleului
+ 133 In timpul sudarii in puncte pot aparea sau nu amprente (patrunderi ale varfului electrodului in table) in functie de marimea electrodului si a fortei de presare. Punctul are rezistenta mecanica buna daca are:
+\ 
+/ o amprenta
+/*doua amprente
+/ nici o amprenta
+ 134 In timpul sudarii in puncte pot aparea sau nu amprente (patrunderi ale varfului electrodului in table) in functie de marimea electrodului si a fortei de presare. Punctul are rezistenta mecanica slaba daca are:
+\ 
+/ o amprenta
+/ doua amprente
+/*nici o amprenta
+ 135 Diametrul nucleului topit este bine sa fie fata de diametrul electrodului:
+\ 
+/ mai mic
+/ mai mare
+/*egal
+ 136 Inaltimea nucleului topit este bine sa fie fata de grosimea tablei, s,:
+\ 
+/ mai mic
+/*mai mare
+/ egal
+ 137 Timpul de intarziere al curentului fata presare la sudarea in puncte are rolul de a asigura:
+\ 
+/ incalzirea progresiva a materialului
+/ transmiterea corecta a fortei
+/*contactul electric bun
+ 138 Timpul de intarziere al fortei fata de intreruperea curentului in sudarea in puncte are rolul de a asigura:
+\ 
+/ transmiterea corecta a fortei
+/ contactul electric bun
+/*compactarea nucleului
+ 139 In figura alaturata se prezinta ciclul de sudare in puncte cu impuls constant de curent. Se aplica la sudarea:
+\ imagini2\0402.bmp
+/*tablelor subtiri din otel cu procentaj redus de carbon
+/ tablelor groase din otel cu procentaj redus de carbon
+/ tablelor subtiri din otel cu procentaj ridicat de carbon
+ 140 In figura alaturata se prezinta ciclul de sudare in puncte cu impuls variabil de curent. Se aplica la sudarea:
+\ imagini2\0402b.bmp
+/*tablelor nepretentioase din aluminiu
+/ tablelor din otel cu procentaj redus de carbon
+/ tablelor din otel cu procentaj ridicat de carbon
+ 141 In figura alaturata se prezinta ciclul de sudare in puncte cu impuls variabil de curent. Cresterea progresiva a curentului de sudare are ca scop:
+\ imagini2\0402b.bmp
+/ evitarea supraincalzirii tablelor
+/ evitarea supraincalzirii electrozilor
+/*evitarea lipirii electrozilor de table
+ 142 In figura alaturata se prezinta ciclul de sudare in puncte cu impuls variabil de curent. Descresterea finala a curentului de sudare are ca scop:
+\ imagini2\0402b.bmp
+/ evitarea lipirii electrozilor de table
+/*compactarea mai buna a nucleului
+/ efectuarea unui tratament termic
+ 143 In figura alaturata se prezinta ciclul de sudare in puncte cu impulsuri de curent. Se aplica la sudarea:
+\ imagini2\0403.bmp
+/ tablelor subtiri din otel cu procentaj redus de carbon
+/*tablelor groase din otel cu procentaj redus de carbon
+/ tablelor subtiri din otel cu procentaj ridicat de carbon
+ 144 La sudarea in puncte cu impulsuri de curent timpul de pauza este fata de timpul activ:
+\ 
+/*mai mic
+/ egal
+/ mai mare
+ 145 In figura alaturata se prezinta ciclul de sudare in puncte cu doua impulsuri diferite de curent. Se aplica la sudarea:
+\ imagini2\0404.bmp
+/ tablelor din otel cu procentaj redus de carbon laminate la rece
+/*tablelor din otel cu procentaj redus de carbon laminate la cald
+/ tablelor subtiri din otel cu procentaj ridicat de carbon
+ 146 In figura alaturata se prezinta ciclul de sudare in puncte care se numeste:
+\ imagini2\0404.bmp
+/ cu impulsuri
+/*cu preincalzire
+/ cu tratament termic
+ 147 In figura alaturata se prezinta ciclul de sudare cu preincalzire. Primul impuls de curent are ca scop:
+\ imagini2\0404.bmp
+/ evitarea lipirii electrodului de table
+/*realizarea unui contact electric bun la table rigide
+/ realizarea unui tratament termic
+ 148 In figura alaturata se prezinta ciclul de sudare cu preincalzire. Primul impuls de curent are ca rol:
+\ imagini2\0404.bmp
+/ evitarea lipirii electrodului de table
+/*micsorarea rezistentei de contact
+/ realizarea unui tratament termic
+ 149 In figura alaturata se prezinta ciclul de sudare in puncte cu doua impulsuri diferite de curent. Se aplica la sudarea:
+\ imagini2\0405.bmp
+/ tablelor subtiri din otel cu procentaj redus de carbon
+/ tablelor groase din otel cu procentaj redus de carbon
+/*tablelor subtiri din otel cu procentaj ridicat de carbon
+ 150 In figura alaturata se prezinta ciclul de sudare in puncte care se numeste:
+\ imagini2\0405.bmp
+/ cu impulsuri
+/ cu preincalzire
+/*cu tratament termic
+ 151 Cel de-al doilea impuls de curent al ciclului din figura alaturata are ca rol evitarea:
+\ imagini2\0405.bmp
+/ fisurarii punctului
+/*calirii punctului
+/ inmuierii punctului
+ 152 In figura alaturata se prezinta ciclul de sudare in puncte cu impuls constant de curent si forta de apasare variabila. Se aplica la sudarea:
+\ imagini3\0406.bmp
+/ tablelor subtiri din otel cu procentaj redus de carbon
+/*tablelor groase din otel cu procentaj redus de carbon
+/ tablelor subtiri din otel cu procentaj ridicat de carbon
+ 153 Sudarea in puncte cu forta de apasare variabila se aplica pentru obtinerea:
+\ 
+/ unui contact electric mai bun
+/*unei rezistente mecanice mai bune
+/ unei imbinari fara deformatii
+ 154 Majoritatea fortei la sudarea in puncte cu forta de apasare variabila se face:
+\ 
+/ inainte de solidificarea nucleului
+/ in timpul solidificarii nucleului
+/*dupa solidificarea nucleului
+ 155 In figura alaturata se prezinta un ciclu de sudare in puncte cu forta variabila. Se aplica la obtinerea unor imbinari:
+\ imagini2\0407.bmp
+/ nepretentioase din aluminiu
+/*pretentioase din aluminiu
+/ pretentioase din otel cu procentaj ridicat de carbon
+ 156 In figura alaturata se prezinta ciclul de sudare in puncte cu doua impulsuri diferite de curent si cu forta de apasare variabila. Se aplica la sudarea tablelor din:
+\ imagini2\0408.bmp
+/ otel cu procentaj redus de carbon
+/*otel cu procentaj ridicat de carbon
+/ otel inoxidabil
+ 157 Curatarea suprafetelor de oxizi se face la sudarea in puncte a tablelor din:
+\ 
+/*otel laminat la cald
+/ otel laminat la rece
+/ aliaje de aluminiu
+ 158 Curatarea suprafetelor de oxizi (decaparea) urmata de oxidarea controlata se face la sudarea in puncte a tablelor din:
+\ 
+/ otel laminat la cald
+/ otel laminat la rece
+/*aliaje de aluminiu
+ 159 Sudam table asamblate necorespunzator ca in figura alaturata. Rezulta:
+\ imagini2\0409.bmp
+/*gropite
+/ improscari de metal topit
+/ rezistenta mecanica redusa
+ 160 Sudam table asamblate necorespunzator ca in figura alaturata. Vom aplica ciclul de sudare...
+\ imagini2\0409.bmp
+\ imagini2\0410a.bmp
+\ imagini2\0410b.bmp
+\*imagini2\0410c.bmp
+ 161 In vederea sudarii in puncte a unor table din otel impurificate accidental se recomanda curatarea:
+\ 
+/*cu peria de sarma
+/ prin polizare
+/ prin decapare
+ 162 In vederea sudarii in puncte a unor table din otel laminat la rece cu suprafata grasa se face:
+\ 
+/ degresarea
+/ decaparea
+/*nu se face curatarea
+ 163 Diametrul corect al varfului electrodului este:
+\ 
+/*d=2*s+3 mm
+/ d=2*s+30 mm
+/ d=2+3*s mm
+ 164 In figura alaturata am folosit electrozi cu diametrul:
+\ imagini2\0411.bmp
+/*corect
+/ prea mic
+/ prea mare
+ 165 In figura alaturata am folosit electrozi cu diametrul:
+\ imagini2\0412.bmp
+/ corect
+/*prea mic
+/ prea mare
+ 166 In figura alaturata am folosit electrozi cu diametrul:
+\ imagini2\0413.bmp
+/ corect
+/ prea mic
+/*prea mare
+ 167 In figura alaturata se prezinta un calibru pentru verificarea:
+\ imagini2\0414.bmp
+/ sarmelor sudate cap la cap
+/*electrozilor la sudarea in puncte
+/ sarmelor sudate in cruce
+ 168 Daca electrozii sunt pozitionati ca in figura alaturata nucleul topit rezulta ca in figura:
+\ imagini2\0415.bmp
+\ imagini2\0415a.bmp
+\ imagini2\0415b.bmp
+\*imagini2\0415c.bmp
+ 169 Daca electrozii sunt pozitiobati ca in figura alaturata nucleul topit rezulta ca in figura:
+\ imagini2\0416.bmp
+\*imagini2\0415a.bmp
+\ imagini2\0415b.bmp
+\ imagini2\0415c.bmp
+ 170 Daca electrozii sunt pozitiobati ca in figura alaturata nucleul topit rezulta ca in figura:
+\ imagini2\0417.bmp
+\ imagini2\0415a.bmp
+\*imagini2\0415b.bmp
+\ imagini2\0415c.bmp
+ 171 Electrozii folositi la sudarea in puncte isi maresc diametrul varfului ca urmare deformarii sau pilirii periodice. Aceasta are ca efect:
+\ 
+/ cresterea rezistentei la forfecare
+/ cresterea rezistentei la tractiune
+/*scaderea rezistentei la forfecare
+ 172 Electrozii folositi la sudarea in puncte isi maresc diametrul varfului ca urmare deformarii sau pilirii periodice. Refacerea varfului se impune cand cresterea este de:
+\ 
+/ 15%
+/*25%
+/ 35%
+ 173 Pila din figura alaturata serveste pentru:
+\ imagini2\0418.bmp
+/*ascutirea varfului electrodului
+/ curatirea varfului electrodului
+/ aplatizarea varfului electrodului
+ 174 Sudam in puncte table mai subtiri decat diametrul barelor sudate cap la cap prin rezistenta. Fata de aceasta metoda vom folosi pentru forta de presare a electrozilor o presiune:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+ 175 Presiunea folosita la sudarea in puncte a otelului cu procentaj redus de carbon este:
+\ 
+/ mai mica de 4 daN/mm2
+/ de 4..6 daN/mm2
+/*mai mare de 6 daN/mm2
+ 176 Odata cu cresterea intensitatii curentului la sudarea in puncte folosim o forta de presare:
+\ 
+/ mai mica
+/ egala
+/ mai mare
+ 177 Odata cu cresterea grosimii tablelor la sudarea in puncte folosim o forta de presare:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+ 178 Sudam in puncte table mai subtiri decat diametrul barelor sudate cap la cap prin rezistenta. Vom folosi o densitate a curentului de sudare:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+ 179 Densitatea uzuala a curentului de sudare in puncte este:
+\ 
+/ 50 A/mm2
+/ 100 A/mm2
+/*200 A/mm2
+ 180 Odata cu cresterea fortei de presare la sudarea in puncte folosim o intensitate a curentului:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+ 181 Odata cu cresterea grosimii tablelor la sudarea in puncte folosim o intensitate a curentului:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+ 182 Care este factorul principal care determina rezistenta punctului sudat:
+\ 
+/ diametrul electrodului
+/*intensitatea curentului
+/ timpul de mentinere a curentului
+ 183 In cazul folosirii unor intensitati prea mari, la sudarea in puncte rezulta:
+\ 
+/ punct ars
+/*expulzari de material topit
+/ strapungerea punctului
+ 184 La sudarea in puncte, in cazul folosirii unor electrozi insuficient raciti, rezulta:
+\ 
+/ punct ars
+/ expulzari de material topit
+/*strapungerea punctului
+ 185 In cazul folosirii unor timpi de conectare a curentului prea mari, la sudarea in puncte rezulta:
+\ 
+/*punct ars
+/ expulzari de material topit
+/ strapungerea punctului
+ 186 Punctul ars prezinta:
+\ 
+/*zona inelara innegrita
+/ patrundere adanca
+/ expulzari de metal topit
+ 187 Punctul rece:
+\ 
+/*este sudat in stare solida
+/ este sudat cu nucleu topit foarte mic
+/ nu este sudat
+ 188 La sudarea in puncte in regim moale se recomanda un timp t=(0,8..1) secunde. Daca sudam table groase de 2 milimetri timpul corect este:
+\ 
+/ o secunda
+/ doua secunde
+/ trei secunde
+ 189 In figura alaturata se prezinta schematic graficul pentru alegerea regimului de sudare in puncte. Regimul dur se gaseste in zona:
+\ imagini2\0419.bmp
+/ A
+/ B
+/*C
+ 190 In figura alaturata se prezinta schematic graficul pentru alegerea regimului de sudare in puncte. Regimul moale se gaseste in zona:
+\ imagini2\0419.bmp
+/*A
+/ B
+/ C
+ 191 In figura alaturata se prezinta schematic graficul pentru alegerea regimului de sudare in puncte. Punctul rece rezulta in zona:
+\ imagini2\0419.bmp
+/*I
+/ II
+/ III
+ 192 In figura alaturata se prezinta schematic graficul pentru alegerea regimului de sudare in puncte. Punctul ars rezulta in zona:
+\ imagini2\0419.bmp
+/ I
+/ II
+/*III
+ 193 In figura alaturata avem o incercare la:
+\ imagini2\0420.bmp
+/*debutonare
+/ rotire
+/ rasucire
+ 194 In urma incercarii de debutonare regimul de sudare in puncte se considera corect daca:
+\ 
+/ tablele nu se desfac
+/ tablele se desfac si vedem pe ele nucleul
+/*tablele se desfac si nucleul ramane pe una din ele
+ 195 Incercarea de debutonare serveste la aprecierea:
+\ 
+/*calitatii punctelor sudate
+/ corectitudinii regimului de sudare
+/ indemanarii operatorului
+ 196 Pentru sudarea in puncte a catorva obiecte casnice folosim:
+\ 
+/ masina cu pedala
+/ masina stationara universala
+/*clestele de sudare
+ 197 Pentru sudarea in puncte in serie a unor obiecte casnice folosim:
+\ 
+/ masina cu pedala
+/*masina stationara universala
+/ clestele de sudare
+ 198 Pentru sudarea in puncte a pragului de la Dacia personala folosim:
+\ 
+/*masina cu pedala
+/ masina stationara universala
+/ clestele de sudare
+ 199 In figura alaturata se prezinta principiul sudarii cu pistolet manual. Sudarea este numita:
+\ imagini2\0421.bmp
+/*directa
+/ indirecta
+/ mixta
+ 200 La care echipament de sudare in puncte transformatorul are mai mult de o spira in secundar?
+\ 
+/ masina cu pedala
+/*pistoletul pneumatic
+/ clestele (pistoletul) dublu punct
+ 201 Care schema de sudare este corecta:
+\ 
+\ imagini2\0422a.bmp
+\*imagini2\0422b.bmp
+\ imagini2\0422c.bmp
+ 202 Pistoletul pneumatic de sudare in puncte este introdus corect intre:
+\ 
+/ tablele de sudat
+/ table si o bara conductoare
+/*doua bare conductoare
+ 203 In figura alaturata este reprezentata sudarea indirecta. La ce pozitie avem sudarea dublu punct FARA suntarea curentului?
+\ 
+\ imagini2\0423a.bmp
+\*imagini2\0423b.bmp
+\ imagini2\0423c.bmp
+ 204 In figura alaturata este reprezentata sudarea indirecta. La ce pozitie avem sudarea dublu punct CU suntarea curentului?
+\ 
+\ imagini2\0423a.bmp
+\ imagini2\0423b.bmp
+\*imagini2\0423c.bmp
+ 205 In figura alaturata este reprezentata sudarea indirecta. La ce pozitie avem nevoie de un suport din cupru?
+\ 
+\ imagini2\0423a.bmp
+\ imagini2\0423b.bmp
+\*imagini2\0423c.bmp
+ 206 Suportul din cupru de la sudarea dublu punct are ca rol:
+\ 
+/ conducerea curentului la transformator
+/ descresterea curentului de sudare
+/*descresterea curentului de sunt
+ 207 Piesa din cupru din figura alaturata produce:
+\ imagini2\0424.bmp
+/ cresterea curentului de sudare
+/ descresterea curentului de sudare
+/*descresterea curentului de sunt
+ 208 Piesa din cupru din figura alaturata produce:
+\ imagini2\0425.bmp
+/*cresterea curentului de sudare
+/ descresterea curentului de sudare
+/ descresterea curentului de sunt
+ 209 Asezarea placii din cupru din figura alaturata este necesara la pozitia:
+\ 
+\ imagini2\0426a.bmp
+\ imagini2\0426b.bmp
+\*imagini2\0426c.bmp
+ 210 Asezarea placii din cupru din figura alaturata este neinspirata la pozitia:
+\ 
+\ imagini2\0426a.bmp
+\*imagini2\0426b.bmp
+\ imagini2\0426c.bmp
+ 211 In care din figurile urmatoare este necesar un suport din cupru?
+\ 
+\ imagini2\0427a.bmp
+\*imagini2\0427b.bmp
+\ imagini2\0427c.bmp
+ 212 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea otelurilor inoxidabile se foloseste cel prezentat la pozitia:
+\ 
+\ imagini2\0428a.bmp
+\*imagini2\0428b.bmp
+\ imagini2\0428c.bmp
+ 213 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea tablelor subtiri din otel carbon se foloseste cel prezentat la pozitia:
+\ 
+\ imagini2\0428a.bmp
+\ imagini2\0428b.bmp
+\*imagini2\0428c.bmp
+ 214 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea tablelor groase din otel carbon se foloseste cel prezentat la pozitia:
+\ 
+\*imagini2\0428a.bmp
+\ imagini2\0428b.bmp
+\ imagini2\0428c.bmp
+ 215 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea cornierelor din otel carbon se foloseste cel prezentat la pozitia:
+\ 
+\ imagini2\0429a.bmp
+\ imagini2\0429b.bmp
+\*imagini2\0429c.bmp
+ 216 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea profilelor I din otel carbon se foloseste cel prezentat la pozitia:
+\ 
+\ imagini2\0429a.bmp
+\*imagini2\0429b.bmp
+\ imagini2\0429c.bmp
+ 217 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea profilelor U din otel carbon se foloseste cel prezentat la pozitia:
+\ 
+\*imagini2\0429a.bmp
+\ imagini2\0429b.bmp
+\ imagini2\0429c.bmp
+ 218 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea tablelor din otel cu procent ridicat de carbon se foloseste cel prezentat la pozitia:
+\ 
+\ imagini2\0430a.bmp
+\*imagini2\0430b.bmp
+\ imagini2\0430c.bmp
+ 219 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea tablelor din aliaje de aluminiu se foloseste cel prezentat la pozitia:
+\ 
+\*imagini2\0430a.bmp
+\ imagini2\0430b.bmp
+\ imagini2\0430c.bmp
+ 220 In figura alaturata sunt prezentate cateva varfuri de electrozi pentru sudarea in puncte. La sudarea benzilor din cupru se foloseste cel prezentat la pozitia:
+\ 
+\ imagini2\0430a.bmp
+\ imagini2\0430b.bmp
+\*imagini2\0430c.bmp
+ 221 Diametrul exterior al corpului electrodului folosit la sudarea in puncte a tablelor din otel este bine sa fie:
+\ 
+/ cat mai mic
+/*potrivit
+/ cat mai mare
+ 222 Cu cat electrodul are diametrul corpului mai mare, el:
+\ 
+/*se raceste mai incet
+/ se raceste mai repede
+/ se incalzeste mai repede
+ 223 Diametrul de la varful electrozilor se alege in functie de:
+\ 
+/*grosimea tablelor
+/ marimea fortei de presare
+/ marimea curentului de sudare
+ 224 Distanta h din figura alaturata de la varful electrodului la fundul gaurii de racire este bine sa fie de:
+\ imagini2\0431.bmp
+/*10 milimetri
+/ 20 milimetri
+/ 30 milimetri
+ 225 Daca distanta h (vezi figura alaturata) de la varful electrodului la fundul gaurii de racire este mare:
+\ imagini2\0431.bmp
+/ se imbunatatesc conditiile de racire
+/*se inrautatesc conditiile de racire
+/ creste durabilitatea electrodului
+ 226 Pentru cresterea durabilitatii electrodului este bine ca unghiul de la varful acestuia sa fie:
+\ 
+/ mai mic de 90°
+/ de 90°
+/*mai mare de 90°
+ 227 Imbinarile sudate in puncte rezista cel mai bine la solicitarea de:
+\ 
+/ tractiune
+/*forfecare
+/ rasucire
+ 228 Suntarea curentului prin punctele sudate anterior este permisa sa se faca:
+\ 
+/*printr-un punct
+/ prin doua puncte
+/ prin trei puncte
+ 229 In cazul folosirii unui pas mic intre punctele succesive:
+\ 
+/ creste curentul de suntare
+/ creste curentul de sudare
+/*scade curentul de sunt
+ 230 Amplasarea punctelor fata de marginea tablelor se face in functie de:
+\ 
+/ diametrul punctului
+/*grosimea tablelor
+/ marimea fortei de presare
+ 231 Amplasarea punctelor aproape de marginea tablelor produce:
+\ 
+/ deteriorarea electrozilor
+/*deformarea tablelor
+/ micsorarea punctului
+ 232 Efectul de micsorare a curentului de sudare ca urmare a deplasarii tablelor de sudat apare la sudarea:
+\ 
+/ indirecta
+/*directa longitudinala
+/ directa transversala
+ 233 Efectul de micsorare a curentului de sudare ca urmare a introducerii tablelor de sudat intre bratele masinii de sudat in puncte apare datorita modificarii:
+\ 
+/*lungimii circuitului
+/ inductantei circuitului
+/ rezistentei circuitului
+ 234 In figura alaturata se prezinta sudarea unor table cu grosimi diferite, cu raportul s2/s1 mai mare de 3. Punctul se formeaza ca in poz.:
+\ 
+\ imagini2\0432a.bmp
+\ imagini2\0432b.bmp
+\*imagini2\0432c.bmp
+ 235 In figura alaturata se prezinta sudarea unor table cu grosimi diferite, cu raportul s2/s1 mai mic de 3. Punctul se formeaza ca in poz.:
+\ 
+\ imagini2\0432a.bmp
+\*imagini2\0432b.bmp
+\ imagini2\0432c.bmp
+ 236 Sudam table cu grosimi diferite, cu raportul s2/s1 mai mare de 3. Punctul se formeaza corect daca folosim un electrod cu varful mai mare de partea:
+\ 
+/ tablei subtiri
+/*tablei groase
+/ de ambele parti
+ 237 Sudam table cu grosimi diferite, cu raportul s2/s1 mai mare de 3. Punctul se formeaza corect daca folosim electrozi identici si o placuta intermediara de partea:
+\ 
+/*tablei subtiri
+/ tablei groase
+/ de ambele parti
+ 238 Nu putea suda in puncte mai mult de doua table suprapuse prin metoda:
+\ 
+/*indirecta
+/ directa longitudinala
+/ directa transversala
+ 239 Sudam in puncte trei table de aceiasi grosime. Regimul de sudare se alege:
+\ 
+/*la fel ca pentru doua table
+/ pentru doua table, marind parametrii de 1,5 ori
+/ pentru doua table, marind putin curentul
+ 240 Sudam in puncte trei table, una groasa de doua subtiri. Regimul de sudare se alege in functie de:
+\ 
+/ tabla groasa
+/*tabla subtire
+/ grosimea medie a tablelor
+ 241 Sudam in puncte trei table, una groasa de doua subtiri. Regimul de sudare se alege in functie de:
+\ 
+/ tabla groasa majorand curentul
+/ tabla groasa micsorand curentul
+/*tabla subtire majorand curentul
+ 242 Sudam in puncte trei table, una subtire de doua groase. Regimul de sudare se alage in functie de:
+\ 
+/*tabla groasa
+/ tabla subtire
+/ grosimea medie a tablelor
+ 243 Sudam in puncte trei table, doua groase de una subtire. Regimul de sudare se alage in functie de:
+\ 
+/ tabla groasa majorand curentul
+/*tabla groasa micsorand curentul
+/ tabla subtire majorand curentul
+ 244 Vrem sa sudam o tabla din otel inox cu una din otel carbon. Punctul se formeaza corect daca folosim un electrod cu varful mai mare de partea:
+\ 
+/*tablei de inox
+/ tablei din otel carbon
+/ de ambele parti
+ 245 Vrem sa sudam o tabla din otel inox cu una din otel carbon. Puctul se formeaza corect daca folosim o placuta de molibden de partea:
+\ 
+/ tablei de inox
+/*tablei din otel carbon
+/ de ambele parti
+ 246 Asezam o tabla din otel inox peste una din otel carbon. Punctul rezultat este la pozitia...
+\ 
+\*imagini2\0433a.bmp
+\ imagini2\0433b.bmp
+\ imagini2\0433c.bmp
+ 247 Asezam o tabla din cupru peste una din otel carbon. Punctul rezultat este la pozitia...
+\ imagini2\0433.bmp
+\ imagini2\0433a.bmp
+\ imagini2\0433b.bmp
+\*imagini2\0433c.bmp
+ 248 Vrem sa sudam o tabla din cupru cu una din otel carbon. Punctul se formeaza corect daca folosim o placuta din molibden de partea:
+\ 
+/*tablei din cupru
+/ tablei din otel carbon
+/ de ambele parti
+ 249 Vrem sa sudam o tabla din cupru cu una din otel carbon. Punctul se formeaza corect daca folosim un electrod cu varful de wolfram de partea:
+\ 
+/*tablei din cupru
+/ tablei din otel carbon
+/ de ambele parti
+ 250 Folosim densitati mici de curent la sudarea in puncte a tablelor din:
+\ 
+/*inox
+/ duraluminiu
+/ otel carbon
+ 251 Folosim densitati mari de curent la sudarea in puncte a tablelor din:
+\ 
+/ inox
+/*duraluminiu
+/ otel carbon
+ 252 Folosim densitati mari de curent la sudarea in puncte a tablelor:
+\ 
+/*zincate
+/ din inox
+/ din otel carbon
+ 253 Rodarea electrozilor este necesara la sudarea tablelor:
+\ 
+/*zincate
+/ din inox
+/ din otel carbon
+ 254 Rodarea electrozilor este necesara la sudarea tablelor:
+\ 
+/ vopsite
+/ cositorite
+/*nichelate
+ 255 Rodarea electrozilor inainte de sudare se face pentru ca electrodul sa se:
+\ 
+/ pasuiasca pe conul de fixare
+/*spoiasca
+/ adapteze formei pieselor de sudat
+ 256 Folosim forte mari de presare la sudarea in puncte a tablelor din:
+\ 
+/ inox
+/*duraluminiu
+/ otel carbon
+ 257 Folosim forte mici de presare la sudarea in puncte a tablelor din:
+\ 
+/ inox
+/ duraluminiu
+/*otel carbon
+ 258 La sudarea in relief marimea zonei de trecere a curentului este determinata de:
+\ 
+/ marimea fortei de presare
+/ marimea electrozilor
+/*forma suprafetelor de sudat
+ 259 Diametrul proeminentei bombate la table cu grosimea s este recomandat:
+\ 
+/ mai mare decat s
+/*mai mare decat 2*s
+/ mai mare decat 3*s
+ 260 Inaltimea proeminentei bombate la table cu grosimea s se recomanda:
+\ 
+/*0,5*s
+/ 0,75*s
+/ s
+ 261 In figura alaturata se prezinta mai multe reliefuri. Proeminenta bombata se gaseste la pozitia:
+\ 
+\*imagini2\0501a.bmp
+\ imagini2\0501b.bmp
+\ imagini2\0501c.bmp
+ 262 In figura alaturata sunt prezentate diferite tipuri de proeminente. Cea mai putin rigida se gaseste la pozitia:
+\ 
+\*imagini2\0501a.bmp
+\ imagini2\0501b.bmp
+\ imagini2\0501c.bmp
+ 263 In figura alaturata sunt prezentate diferite tipuri de proeminente. Cea mai rigida se gaseste la pozitia:
+\ 
+\ imagini2\0501a.bmp
+\ imagini2\0501b.bmp
+\*imagini2\0501c.bmp
+ 264 In cazul sudarii in relief a doua table de grosime diferita proeminenta se face in:
+\ 
+/ tabla subtire
+/*tabla groasa
+/ in ambele table
+ 265 Proeminentele bombate nu se folosesc la sudarea tablelor cu grosime de:
+\ 
+/*0,5 milimetri
+/ 1 milimetru
+/ 1,5 milimetri
+ 266 Proeminentele ovale se folosesc la sudarea tablelor cu grosime de:
+\ 
+/*0,5 milimetri
+/ 1 milimetru
+/ 1,5 milimetri
+ 267 Sudam in relief cu proeminente bombate. Rezulta puncte sudate de forma:
+\ 
+/*cilindrica
+/ discoidala
+/ toroidala
+ 268 Sudam in relief cu proeminente bombate. Pentru a obtine un nucleu complet, sub forma de disc, trebuie sa folosim:
+\ 
+/ forta de presare mai mare
+/ electrod mai mare, plin
+/*proeminenta plina
+ 269 Se pot suda in relief:
+\ 
+/ doua table
+/ trei table
+/ mai multe table
+ 270 Sudam in relief trei table. Practicam proeminentele in:
+\ 
+/ o tabla
+/*doua table
+/ trei table
+ 271 In figurile alaturate sunt prezentate diferite tipuri de imbinari in relief cu proeminente. O imbinare etansa obtinem la pozitia:
+\ 
+\ imagini2\0502a.bmp
+\*imagini2\0502b.bmp
+\ imagini2\0502c.bmp
+ 272 In figurile alaturate sunt prezentate diferite tipuri de imbinari in relief cu proeminente. Proeminente intercalate se gasesc la pozitia:
+\ 
+\ imagini2\0502a.bmp
+\ imagini2\0502b.bmp
+\*imagini2\0502c.bmp
+ 273 In figurile alaturate sunt prezentate diferite tipuri de imbinari in relief. Pozitionarea buna a componenetelor se obtine la pozitia:
+\ 
+\*imagini2\0503a.bmp
+\ imagini2\0503b.bmp
+\ imagini2\0503c.bmp
+ 274 In figurile alaturate sunt prezentate diferite tipuri de imbinari in relief cu proeminente in una sau in ambele table. Care este gresita?
+\ 
+\ imagini2\0504a.bmp
+\*imagini2\0504b.bmp
+\ imagini2\0504c.bmp
+ 275 In figurile alaturate sunt prezentate diferite tipuri de imbinari in relief cu proeminente in una sau in ambele table. Care este recomandata?
+\ 
+\ imagini2\0505a.bmp
+\ imagini2\0505b.bmp
+\*imagini2\0505c.bmp
+ 276 Folosirea proeminentelor intercalate prezinta avantajul:
+\ 
+/*componentele sunt identice
+/ numar de puncte mai mare
+/ forta de presare mai mica
+ 277 Sudarea in T se executa, de regula, intre o piulita si o:
+\ 
+/ bara
+/ teava
+/*tabla
+ 278 In figura alaturata se prezinta un detaliu de centrare cu ajutorul unui stift a pieselor de sudat in relief. Datorita neizolarii electrice a stiftului se produce suntarea curentului de sudare intre electrodul inferior si:
+\ imagini2\0506.bmp
+/ tabla inferioara
+/ tabla superioara
+/*ambele table
+ 279 In figura alaturata se prezinta un detaliu de centrare cu ajutorul unui stift a pieselor de sudat in relief. Locasul de deasupra stiftului, din electrodul superior, serveste pentru evitarea:
+\ imagini2\0506.bmp
+/ scurtcircuitarii
+/ suntarii
+/*flambarii
+ 280 In figurile alaturate se prezinta un detaliu de centrare cu ajutorul unui stift a pieselor de sudat in relief. Pentru a se evita suntarea se recomanda:
+\ 
+\*imagini2\0507a.bmp
+\ imagini2\0507b.bmp
+\ imagini2\0507c.bmp
+ 281 In figurile alaturate se prezinta un detaliu de centrare cu ajutorul unui stift a pieselor de sudat in relief. Pentru a se evita suntarea stiftul NU trebuie presat intr-o bucsa izolatoare in varianta:
+\ 
+\*imagini2\0507a.bmp
+\ imagini2\0507b.bmp
+\ imagini2\0507c.bmp
+ 282 In figurile alaturate se prezinta un detaliu de centrare cu ajutorul unui stift a pieselor (superioara, inferioara sau a ambelor) de sudat in relief. Pentru evitarea suntarii ce varianta recomandati?
+\ 
+\*imagini2\0508a.bmp
+\ imagini2\0508b.bmp
+\ imagini2\0508c.bmp
+ 283 In figurile alaturate se prezinta un detaliu de centrare cu ajutorul unui stift a pieselor (superioara, inferioara sau a ambelor) de sudat in relief. La ce pozitie este inutila bucsa izolatoare?
+\ 
+\ imagini2\0508a.bmp
+\*imagini2\0508b.bmp
+\ imagini2\0508c.bmp
+ 284 In figurile alaturate se prezinta un detaliu de centrare cu ajutorul unui stift a pieselor de sudat in relief. Pentru evitarea suntarii stiftul trebuie presat intr-o bucsa izolatoare:
+\ imagini2\0509.bmp
+/ din stanga
+/*din dreapta
+/ ambele
+ 285 Care din afirmatiile urmatoare in legatura cu sudarea in relief a mai multor puncte este gresita?
+\ 
+/*necesita curent de sudare mare
+/ consuma mai multa energie electrica
+/ necesita forte mari de presare
+ 286 Care din afirmatiile urmatoare in legatura cu sudarea in relief a mai multor puncte este gresita:
+\ 
+/ necesita prese de sudare (forte mari)
+/*electrozii se deformeaza mai repede
+/ are productivitate ridicata
+ 287 Cea mai des folosita forma pentru varful bolturilor sudate in T este:
+\ 
+/*conica
+/ bombata
+/ inelara
+ 288 Sudam in T un surub pe o tabla. Care are cea mai mare rezistenta mecanica:
+\ 
+\ imagini2\0510a.bmp
+\ imagini2\0510b.bmp
+\*imagini2\0510c.bmp
+ 289 Sudam in T o piulita pe o tabla. La care din solicitarile din figura are loc cea mai mare rezistenta mecanica?
+\ 
+\*imagini2\0511a.bmp
+\ imagini2\0511b.bmp
+\ imagini2\0511c.bmp
+ 290 In figura se prezinta sudarea in T teava-flansa. In care pozitie avem proeminenta circulara?
+\ 
+\ imagini2\0512a.bmp
+\*imagini2\0512b.bmp
+\ imagini2\0512c.bmp
+ 291 In figura se prezinta sudarea in T teava-flansa. In care pozitie avem contacte punctiforme?
+\ 
+\ imagini2\0512a.bmp
+\ imagini2\0512b.bmp
+\*imagini2\0512c.bmp
+ 292 In figura se prezinta sudarea in T teava-flansa. In care pozitie avem pozitionarea sigura a componentelor?
+\ 
+\*imagini2\0512a.bmp
+\ imagini2\0512b.bmp
+\ imagini2\0512c.bmp
+ 293 In figura se prezinta sudarea in T a doua placi. In care pozitie avem contacte punctiforme?
+\ 
+\ imagini2\0513a.bmp
+\ imagini2\0513b.bmp
+\*imagini2\0513c.bmp
+ 294 Sudam in T un surub pe o placa ca in figura alaturata. Folosim corect electrodul in pozitia:
+\ 
+\*imagini2\0514a.bmp
+\ imagini2\0514b.bmp
+\ imagini2\0514c.bmp
+ 295 Sudam in T un surub pe o placa ca in figura alaturata. Traseul corect al curentului de sudare este in pozitia:
+\ 
+\*imagini2\0514a.bmp
+\ imagini2\0514b.bmp
+\ imagini2\0514c.bmp
+ 296 Sudam in T un surub pe o placa ca in figura alaturata. Folosim corect electrodul in pozitia:
+\ 
+\ imagini2\0515a.bmp
+\*imagini2\0515b.bmp
+\ imagini2\0515c.bmp
+ 297 Sudam in T un surub pe o placa ca in figura alaturata. Curentul de sunt cel mai mare se obtine in pozitia:
+\ 
+\*imagini2\0515a.bmp
+\ imagini2\0515b.bmp
+\ imagini2\0515c.bmp
+ 298 Sudam in cruce doua bare. Relieful natural obtinut este:
+\ 
+/ circular
+/*punctiform
+/ liniar
+ 299 In figura alaturata se prezinta schema sudarii:
+\ imagini2\0516.bmp
+/ in T
+/*in cruce
+/ in puncte
+ 300 In figura alaturata se prezinta schema sudarii in cruce. Canalele profilate de la varful electrozilor NU au rolul de a:
+\ imagini2\0516.bmp
+/ concentra curentul
+/ reduce presiunea de contact
+/*pozitiona componentele
+ 301 Sudam in cruce doua bare. Ele ajung in acelasi plan daca realizam un grad de deformare de:
+\ 
+/ 25%
+/*50%
+/ 100%
+ 302 Odata cu cresterea gradului de deformare realizat la sudarea in cruce rezistenta la tractiune a punctului:
+\ 
+/ scade
+/ creste
+/*nu se modifica
+ 303 In figura alaturata barele sudate in cruce sunt solicitate la:
+\ imagini2\0517.bmp
+/ compresiune
+/*tractiune
+/ forfecare
+ 304 In figura alaturata barele sudate in cruce sunt solicitate la:
+\ imagini2\0518.bmp
+/ compresiune
+/ tractiune
+/*forfecare
+ 305 Sudam in cruce doua tevi. O imbinare estetica pentru mobilier metalic obtinem la pozitia:
+\ 
+\*imagini2\0519a.bmp
+\ imagini2\0519b.bmp
+\ imagini2\0519c.bmp
+ 306 Sudam in cruce doua tevi ca in figurile alaturate. Imbinarea cea mai rezistenta este la pozitia:
+\ 
+\ imagini2\0519a.bmp
+\ imagini2\0519b.bmp
+\*imagini2\0519c.bmp
+ 307 Sudam in cruce doua tevi patrate ca in figurile alaturate. Relieful cel mai avantajos este la pozitia:
+\ 
+\*imagini2\0520a.bmp
+\ imagini2\0520b.bmp
+\ imagini2\0520c.bmp
+ 308 Operatia de sudare in linie incepe cu etapa:
+\ 
+/ cuplarea transformatorului
+/*cuplarea miscarii de rotatie
+/ aplicarea fortei
+ 309 La sfarsitul operatiei de sudare in linie executam:
+\ 
+/ decuplarea transformatorului
+/*anularea fortei
+/ anularea curentului
+ 310 In figura alaturata este reprezentata sudarea in linie in varianta de sudare:
+\ imagini2\0601.bmp
+/ indirecta
+/ longitudinala
+/*transversala
+ 311 Putem suda dupa schema din figura alaturata cordoane cu lungimea, fata de L - lungimea bratelor masinii:
+\ imagini2\0601.bmp
+/ maxim L
+/ maxim 2*L
+/*mai mari de 2*L
+ 312 Directia de sudare din figura alaturata este:
+\ imagini2\0601.bmp
+/*corecta
+/ gresita
+/ indiferenta
+ 313 Varianta de sudare in linie din figura alaturata se aplica la sudarea:
+\ imagini2\0601.bmp
+/ mantalei rezervoarelor
+/ capacelor butoaielor
+/*materialului rulant CFR
+ 314 In figura alaturata este reprezentata sudarea in linie in varianta de sudare:
+\ imagini2\0602.bmp
+/ indirecta
+/*longitudinala
+/ transversala
+ 315 Putem suda dupa schema din figura alaturata cordoane cu lungimea, fata de L - lungimea bratelor masinii:
+\ imagini2\0602.bmp
+/*maxim L
+/ maxim 2*L
+/ mai mari de 2*L
+ 316 Directia de sudare din figura alaturata este:
+\ imagini2\0602.bmp
+/*corecta
+/ gresita
+/ indiferenta
+ 317 Varianta de sudare in linie din figura alaturata se aplica la sudarea:
+\ imagini2\0602.bmp
+/ mantalei rezervoarelor
+/*capacelor butoaielor
+/ materialului rulant CFR
+ 318 Varianta de sudare in linie din figura alaturata se aplica la sudarea:
+\ imagini2\0603.bmp
+/*mantalei rezervoarelor
+/ capacelor butoaielor
+/ materialului rulant CFR
+ 319 Sudarea in linie cea mai des folosita se face dupa varianta din figura de la pozitia:
+\ 
+\*imagini2\0604a.bmp
+\ imagini2\0604b.bmp
+\ imagini2\0604c.bmp
+ 320 La sudarea in linie folosim ciclul de sudare cu:
+\ 
+/*impulsuri de curent
+/ preincalzire
+/ tratament termic
+ 321 Daca folosim ciclul de sudare in linie cu miscare intermitenta a rolelor deplasarea tablelor are loc in timpul anularii:
+\ 
+/ fortei
+/*curentului
+/ rotatiei
+ 322 Executam asamblarea provizorie in puncte a unor table ce urmeaza a fi sudate in linie. Punctele pot fi mai rare (pas mare) cu cat materialul de sudat are mai mare:
+\ 
+/*grosimea
+/ coeficientul de dilatare
+/ rezistivitatea
+ 323 Executam asamblarea provizorie in puncte a unor table ce urmeaza a fi sudate in linie. Punctele pot fi mai dese (pas mic) cu cat materialul de sudat are mai mare:
+\ 
+/ grosimea
+/*coeficientul de dilatare
+/ rezistivitatea
+ 324 Sudam in linie cu role avand diametre diferite ca in figura alaturata. Imbinarea rezulta ca in pozitia:
+\ 
+\ imagini2\0605a.bmp
+\*imagini2\0605b.bmp
+\ imagini2\0605c.bmp
+ 325 Sudam in linie cu viteza constanta. Forta de presare trebuie sa fie fata de sudarea in puncte:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+ 326 Sudam in linie cu miscare intermitenta. Forta de presare trebuie sa fie fata de sudarea in puncte:
+\ 
+/*mai mica
+/ egala
+/ mai mare
+ 327 La sudarea in linie tablele se desfac ca in figura, desi pe suprafetele lor observam atat amprenta rolei cat si urma nucleului topit. Cauza este ca folosim la o valoare prea mica:
+\ 
+/*forta de presare
+/ viteza de sudare
+/ intensitatea curentului
+ 328 La sudarea in linie tablele se desfac ca in figura, desi pe suprafetele lor observam atat amprenta rolei cat si urma nucleului topit. Cauza este ca folosim la o valoare prea mare:
+\ 
+/ forta de presare
+/*viteza de sudare
+/ intensitatea curentului
+ 329 La sudarea in linie intensitatea curentului trebuie sa fie fata de sudarea in puncte:
+\ 
+/ mai mica
+/ egala
+/*mai mare
+ 330 La sudarea in linie, intensitatea curentului trebuie sa fie fata de sudarea in puncte:
+\ 
+/ fata rolelor
+/ lateralul rolelor
+/*spatele rolelor
+ 331 Pentru obtinerea unei cusaturi in linie etansa pasul punctelor succesive trebuie sa fie fata de diametrul d al nucleului:
+\ 
+/ 0,1*d
+/*0,5*d
+/ d
+ 332 Decuparea colturilor la sudarea in linie a butoaielor se face pentru a evita:
+\ 
+/ incrucisarea cordoanelor
+/*aparitia unor neetanseitati
+/ aspectul inestetic
+ 333 Decuparea colturilor nu se face la sudarea in linie a butoaielor din tabla:
+\ 
+/ alba
+/ neagra
+/*zincata
+ 334 In figura alaturata se prezinta sudarea in linie, pe generatoare, a tevilor. Sudarea se face:
+\ imagini2\0607.bmp
+/*in stare solida
+/ cu scanteiere
+/ cu nucleu topit
+ 335 In figura alaturata se prezinta sudarea in linie cu banda de acoperire. Sudarea se face:
+\ imagini2\0608.bmp
+/ in stare solida
+/ cu scanteiere
+/*cu nucleu topit
+ 336 In figura alaturata se prezinta sudarea in linie cu banda de acoperire. Tablele de suntat sunt in pozitie:
+\ imagini2\0608.bmp
+/ suprapusa
+/*cap la cap
+/ in cruce
+ 337 In figura alaturata se prezinta sudarea in linie cu banda de acoperire. Banda se face din:
+\ imagini2\0608.bmp
+/ cupru
+/ alama
+/*otel
+ 338 In figura alaturata se prezinta sudarea in linie cu banda de acoperire. Sudarea se aplica la executarea:
+\ imagini2\0608.bmp
+/ cutiilor mari de conserve
+/*materialului rulant CFR
+/ caroseriilor auto
+ 339 In figura alaturata se prezinta sudarea in linie cu sarma electrod. Sudarea se face:
+\ imagini2\0609.bmp
+/ in stare solida
+/*cu scanteiere
+/ cu nucleu topit
+ 340 In figura alaturata se prezinta sudarea in linie cu sarma electrod. Sarma se face din:
+\ imagini2\0609.bmp
+/*cupru
+/ alama
+/ otel
+ 341 In figura alaturata se prezinta sudarea in linie cu sarma electrod. Sudarea se aplica la executarea:
+\ imagini2\0609.bmp
+/*cutiilor mari de conserve
+/ materialului rulant CFR
+/ caroseriilor CFR
+ 342 In figura alaturata se prezinta sudarea in linie cu sarma electrod. Sarma are rolul de a:
+\ imagini2\0609.bmp
+/*concentra curentul
+/ oferi o suprafata curata
+/ reduce suprafata de contact
+ 343 In figura alaturata se prezinta incarcarea prin sudare in linie cu sarma. Sarma se face din:
+\ imagini2\0610.bmp
+/ cupru
+/ alama
+/*otel
+ 344 In figura alaturata se prezinta incarcarea prin sudare in linie cu sarma. Incarcarea se face:
+\ imagini2\0610.bmp
+/ circular
+/*pe elice
+/ pe generatoare
+ 345 Prin sudarea cu energie inmagazinata se urmareste reducerea:
+\ 
+/*puterii electrice instalate
+/ curentului de sudare
+/ timpului de sudare
+ 346 Ce afirmatie este neadevarata pentru sudarea cu condensatoare:
+\ 
+/ putere electrica instalata mica
+/*regim de sudare moale
+/ dozare exacta a energiei
+ 347 Ce afirmatie este falsa pentru sudarea cu condensatoare:
+\ 
+/ regim de sudare dur
+/ dozare exacta a energiei
+/*putere electrica instalata mare
+ 348 Timpul de sudare cu energie inmagazinata in condensatoare este de ordinul:
+\ 
+/*0,001 secunde
+/ 0,1 secunde
+/ o secunda
+ 349 In cazul sudarii in puncte cu condensatoare tensiunea de alimentare trebuie sa fie:
+\ 
+/*continua
+/ alternativa
+/ oricum
+ 350 In figura alaturata se prezinta schema sudarii in puncte cu condensatoare. Tensoiunea de alimentare U1 este:
+\ imagini2\0701.bmp
+/ continua
+/*alternativa
+/ oricum
+ 351 In figura alaturata se prezinta schema sudarii in puncte cu condensatoare. Reglajul practic al energiei inmagazinate se face prin modificarea parametrului:
+\ imagini2\0701.bmp
+/ U1
+/ R
+/*C
+ 352 In figura alaturat se prezinta schema sudarii in puncte cu condensatoare. Rezistenta R are ca rol principal limitarea:
+\ imagini2\0701.bmp
+/ tensiunii de incarcare
+/ energiei inmagazinate
+/*curentului de incarcare
+ 353 La care procedeu de sudare electrozii nu sunt raciti prin interior cu apa?
+\ 
+/*la sudarea cu condensatoare
+/ la sudarea in cruce
+/ la sudarea in relief
+ 354 La sudarea in puncte cu condensatoare NU se recomanda electrodul prezentat in figura...
+\ 
+/*imagini2\0702a.bmp
+/ imagini2\0702b.bmp
+/ imagini2\0702c.bmp
+ 355 La sudarea in puncte cu condensatoare folosim electrozi cu varful din wolfram in cazul componentelor din:
+\ 
+/ aluminiu
+/*cupru
+/ inox
+ 356 La sudarea in puncte cu condensatoare folosim electrozi cu varful cilindric deoarece acesta, fata de cel conic:
+\ 
+/ are o racire mai buna
+/*isi pastreaza forma dupa pilire
+/ concentreaza mai bine curentul
+ 357 La sudarea in puncte cu condensatoare, in cazul tablelor cu grosimea pana la 0,5 milimetri, folosim electrozi cu varful cilindric avand diametrul de:
+\ 
+/*doi milimetri
+/ patru milimetri
+/ cinci milimetri
+ 358 La sudarea in puncte cu condensatoare curatam varful electrozilor cu pila sau cu smirghel prin miscari alternative:
+\ imagini2\0703.bmp
+/ inainte-inapoi
+/ stanga-dreapta
+/*de rotire
+ 359 Care din urmatoarele afirmatii NU este adevarata in cazul sudarii in puncte cu condensatoare? Curatarea suprafetelor de sudat se face:
+\ 
+/ mecanic
+/ chimic
+/*nu se face
+ 360 Incalzirea la sudarea in puncte cu condensatoare este produsa de rezistenta electrica:
+\ 
+/ proprie a electrodului
+/*proprie a materialului de sudat
+/ de contact
+ 361 Sudarea in puncte cu condensatoare se recomanda in special pentru:
+\ 
+/ inox
+/*oteluri carbon
+/ neferoase
+ 362 Sudarea in puncte cu condensatoare se recomanda in special pentru componente (table, sarme) cu grosimea:
+\ 
+/*sub 0,5 milimetri
+/ intre 0,5 si un milimetru
+/ peste un milimetru
+ 363 In figura urmatoare se prezinta schema sudarii:
+\ imagini2\0704.bmp
+/*bolturilor cu energie inmagazinata
+/ in puncte cu condensatoare
+/ in puncte in T
+ 364 Care din suruburile prezentate se sudeaza cu energie inmagazinata:
+\ 
+\*imagini2\0705a.bmp
+\ imagini2\0705b.bmp
+\ imagini2\0705c.bmp
+ 365 Curatarea suprafetelor in cazul sudarii bolturilor cu energie inmagazinata se face:
+\ 
+/ mecanic
+/ chimic
+/*nu se face
+ 366 Incalzirea la sudarea cu condensatoare a bolturilor pe table este produsa de rezistenta electrica:
+\ 
+/ proprie a tablei
+/*proprie a boltului
+/ proprie a varfului boltului
+ 367 Varful (concentratorul) calibrat al bolturilor, in timpul sudarii prin presiune cu energie inmagazinata se:
+\ 
+/ turteste
+/ topeste
+/*vaporizeaza
+ 368 Putem suda cu energie inmagazinata, pe table din otel carbon, bolturi din:
+\ 
+/*otel carbon sau inox
+/ materiale nemetalice
+/ orice material
+ 369 Putem suda cu energie inmagazinata, pe table din otel carbon, bolturi din:
+\ 
+/*otel carbon sau inox
+/ aliaje de aluminiu sau cupru
+/ orice material
+ 370 Care din afirmatiile urmatoare este gresita? Sudarea la rece se caracterizeaza prin:
+\ 
+/ curatarea minutioasa a suprafetelor
+/*realizarea unor deformari plastice reduse
+/ folosirea unor presiuni mari
+ 371 Care din afirmatiile urmatoare este gresita? Sudarea la rece se caracterizeaza prin:
+\ 
+/ curatarea minutioasa a suprafetelor
+/ realizarea unor deformari plastice insemnate
+/*folosirea unor presiuni reduse
+ 372 Gradul mare de deformare realizat la sudarea la rece prin presiune NU are ca scop principal:
+\ 
+/*deformarea asperitatilor
+/ subtierea si eliminarea stratului nemetalic
+/ activarea atomilor
+ 373 Forta mare de presare necesara sudarii la rece este justificata deoarece:
+\ 
+/ nu se produce recristalizarea
+/ creste sectiunea
+/*apare ecruisarea
+ 374 In figura alaturata se prezinta sudarea cap la cap:
+\ imagini2\0801.bmp
+/ prin rezistenta
+/ prin scanteiere
+/*la rece
+ 375 Bacurile de strangere folosite la sudarea cap la cap la rece se fac din:
+\ 
+/ cupru
+/*otel
+/ aliaje dure de cupru
+ 376 Care dintre bacurile urmatoare le recomandati pentru sudarea la rece, cap la cap:
+\ 
+\*imagini2\0802a.bmp
+\ imagini2\0802b.bmp
+\ imagini2\0802c.bmp
+ 377 Care dintre bacurile urmatoare le recomandati pentru sudarea la rece, cap la cap:
+\ 
+\*imagini2\0803a.bmp
+\ imagini2\0803b.bmp
+\ imagini2\0803c.bmp
+ 378 Pentru sudarea cap la cap a sarmelor NU se recomanda pentru pregatirea capetelor:
+\ 
+/*curatarea suprafetei laterale
+/ curatarea suprafetei frontale
+/ taierea perpendiculara a capatului
+ 379 Cu cat creste gradul de deformare la sudarea cap la cap, sectiunea imbinarii:
+\ 
+/*creste
+/ scade
+/ nu se modifica
+ 380 Cu cat creste gradul de deformare la sudarea cap la cap, rezistenta imbinarii:
+\ 
+/*creste
+/ scade
+/ nu se modifica
+ 381 Cu cat creste gradul de deformare la sudarea cap la cap, creste si rezistenta imbinarii. Pentru sudarea aluminiului ce grad recomandati?
+\ 
+/*80%
+/ 100%
+/ 120%
+ 382 Sudam la rece, cap la cap, bare (d=10 milimetri) din aluminiu moale (rezistenta la curgere 8..10 daN/mm2). Ce forta de refulare recomandati?
+\ 
+/*650 daN
+/ 3200 daN
+/ 6500 daN
+ 383 Sudam la rece, cap la cap. Pentru a obtine o imbinare sigura si rezistenta se recomanda:
+\ 
+/*grad mare de deformare cat mai mare
+/ curatire multipla
+/ refulare multipla
+ 384 Sudam la rece, cap la cap sarme din:
+\ 
+/ nichelina
+/*aluminiu
+/ otel cu procentaj redus de carbon
+ 385 Sudam la rece, cap la cap. Rezistenta la rupere a sudurii fata de a metalului de baza este:
+\ 
+/ mai mica
+/ mai mare
+/*la fel
+ 386 Care imbinare sudata la rece in puncte din figura alaturata este mai rezistenta?
+\ 
+\ imagini2\0804a.bmp
+\*imagini2\0804b.bmp
+\ imagini2\0804c.bmp
+ 387 O imbinare sudata la rece in puncte, cu deformare unilaterala, are:
+\ 
+/*o fata estetica
+/ rezistenta la forfecare mai buna
+/ amprenta mai mica
+ 388 O imbinare sudata la rece in puncte, cu deformare unilaterala, fata de deformarea bilaterala are rezistenta la forfecare:
+\ imagini2\0805.bmp
+/ mai mica
+/ mai mare
+/*egala
+ 389 Care imbinare sudata la rece in puncte din figurle alaturate are rezistenta la forfecare cea mai mare?
+\ 
+\ imagini2\0806a.bmp
+\*imagini2\0806b.bmp
+\ imagini2\0806c.bmp
+ 390 Care imbinare sudata la rece in puncte din figurile alaturate are rezistenta la forfecare cea mai mica?
+\ 
+\*imagini2\0806a.bmp
+\ imagini2\0806b.bmp
+\ imagini2\0806c.bmp
+ 391 Cel mai des folosite la sudarea la rece in puncte sunt poansoanele...
+\ 
+/ drepte
+/*in trepte
+/ concentrice
+ 392 Care afirmatie referitoare la poansoanele drepte, folosite la sudarea la rece in puncte, NU este adevarata?
+\ 
+/*sunt mai putin rigide
+/ patrund mai mult in material
+/ provoaca distantarea tablelor
+ 393 Care afirmatie referitoare la poansoanele in trepte, folosite la sudarea la rece in puncte, NU este adevarata?
+\ 
+/ sunt mai putin rigide
+/*patrund mai mult in material
+/ provoaca distantarea tablelor
+ 394 Sudam la rece in puncte table din aluminiu cu grosimea de cinci milimetri. Diametrul poansonului trebuie sa fie:
+\ 
+/ 4 milimetri
+/*12 milimetri
+/ 16 milimetri
+ 395 Gradul minim de deformare pentru sudarea la rece in puncte a aluminiului este de circa 72%. Pentru sudare ce grad recomandati?
+\ 
+/*80%
+/ 90%
+/ 100%
+ 396 Sudam la rece in puncte table din aluminiu cu grosimea de cinci milimetri. Pentru presare bilaterala inaltimea partii active a poansonului trebuie sa fie de...
+\ 
+/*patru milimetri
+/ opt milimetri
+/ 12 milimetri
+ 397 Sudam la rece in puncte table din aluminiu cu grosimea de cinci milimetri. Pentru presare unilaterala inaltimea partii active a poansonului trebuie sa fie de...
+\ 
+/ patru milimetri
+/*opt milimetri
+/ 12 milimetri
+ 398 Sudam la rece in puncte table din aluminiu. Pentru a obtine o imbinare sigura si rezistenta se recomanda:
+\ 
+/ grad de deformare mic
+/*curatare atenta a suprafetelor
+/ forta de presare mare
+ 399 Sudam la rece in puncte table din aluminiu. Decaparea suprafetelor se face cu o solutie de 10..20% de...
+\ 
+/ soda caustica
+/*acid fluorhidric
+/ acid clorhidric
+ 400 Sudam la rece in puncte table din aluminiu. Curatarea suprafetelor se face cu:
+\ 
+/*peria rotativa
+/ smirghel
+/ pila
+ 401 Sudam la rece in puncte cupru cu aluminiu. Fata de cazul aluminiu-aluminiu sudarea se face cu un grad de deformare:
+\ 
+/ mai mic
+/ mai mare
+/*la fel
+ 402 Sudam la rece in puncte table din aluminiu. Ne deranjeaza...
+\ 
+/ curatarea ingrijita a suprafetelor
+/ forta mare de presare
+/*gradul mare de deformare
+ 403 Sudarea la rece in puncte se aplica in domeniul:
+\ 
+/ metalurgic
+/ electrotehnic
+/*industria usoara (vase din aluminiu)
+ 404 In figura alaturata este reprezentata o imbinare bimetalica sudata cap la cap:
+\ imagini2\0807.bmp
+/*prin rezistenta
+/ prin scanteiere
+/ la rece
+ 405 In figura alaturata este reprezentata o imbinare bimetalica sudata la rece, cap la cap prin suprapunere coaxiala. Din aluminiu este executat elementul:
+\ imagini2\0807.bmp
+/*pozitia 1
+/ pozitia 2
+/ pozitia 3
+ 406 In figura alaturata este reprezentata o imbinare bimetalica sudata la rece, cap la cap prin suprapunere coaxiala. Mansonul conic (pozitia 2) este executat din:
+\ imagini2\0807.bmp
+/ aluminiu
+/*cupru
+/ inox
+ 407 In figura alaturata este reprezentata o imbinare bimetalica sudata la rece, cap la cap prin suprapunere coaxiala. Zimtii sunt executati pe directie:
+\ imagini2\0808.bmp
+/*circulara
+/ ovala
+/ spirala (filet)
+ 408 Sudarea la rece cap la cap prin suprapunere coaxiala se aplica in domeniul:
+\ 
+/ metalurgic
+/*constructii aerospatiale
+/ industria usoara
+ 409 In cazul imbinarilor bimetalice sudate la rece cap la cap prin suprapunere coaxiala deformarea in vederea sudarii este pe directie:
+\ 
+/ longitudinala
+/ transversala
+/*radiala
+ 410 In figura alaturata este reprezentata o imbinare bimetalica sudata la rece pe suprafete zimtate. Zimtii sunt executati pe directie:
+\ imagini2\0809.bmp
+/*circulara
+/ liniara
+/ spirala
+ 411 In figura alaturata este reprezentata o imbinare bimetalica sudata la rece pe suprafete zimtate. Zimtii sunt executati in materialul:
+\ imagini2\0809.bmp
+/ moale
+/ dur
+/*in ambele
+ 412 In figura alaturata este reprezentata o imbinare bimetalica sudata la rece pe suprafete zimtate. Se sudeaza materiale:
+\ imagini2\0809.bmp
+/ asemanatoare
+/ diferite
+/*oricare
+ 413 Vrem sa sudam la rece pe suprafete zintate trei placi in ordinea aluminiu-cupru-aluminiu. Executam doua suprafete zimtate in placile:
+\ 
+/ 1+2
+/*1+3
+/ 2+2
+ 414 Vrem sa sudam la rece pe suprafete zimtate trei placi in ordinea cupru-aluminiu-cupru. Executam doua suprafete zimtate in placile:
+\ 
+/ 1+2
+/*1+3
+/ 2+2
